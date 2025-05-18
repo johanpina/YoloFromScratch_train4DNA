@@ -1,0 +1,1000 @@
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000001.jpg 143,191,157,205,1 264,205,286,227,5 164,254,220,310,9 311,160,339,188,8 261,156,303,198,5 164,167,248,251,4 235,260,347,372,0 115,61,227,173,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000002.jpg 132,17,146,31,5 145,154,159,168,8 246,168,358,280,1 170,62,282,174,4 10,251,122,363,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000003.jpg 21,173,35,187,0 171,352,199,380,1 61,133,117,189,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000004.jpg 128,363,170,405,8 154,106,182,134,4 197,259,309,371,7 11,160,95,244,9 108,189,192,273,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000005.jpg 178,341,220,383,0 162,281,190,309,9 172,170,228,226,8 244,102,286,144,8 48,167,76,195,1 307,13,335,41,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000006.jpg 289,347,345,403,4 164,75,220,131,6 5,66,89,150,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000007.jpg 393,259,407,273,7 190,255,232,297,1 43,311,85,353,6 208,139,264,195,2 153,91,195,133,3 331,5,373,47,0 242,330,298,386,2 16,35,100,119,5 195,16,307,128,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000008.jpg 262,244,276,258,0 194,33,208,47,7 83,282,125,324,9 144,3,172,31,3 42,188,98,244,1 295,6,323,34,5 78,325,134,381,2 32,83,88,139,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000009.jpg 44,278,58,292,9 224,191,280,247,5 170,306,198,334,2 7,315,35,343,9 105,110,133,138,1 281,4,393,116,2 172,73,284,185,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000010.jpg 326,338,348,360,1 156,239,212,295,9 332,216,374,258,1 140,330,196,386,1 204,67,232,95,6 369,117,411,159,5 244,170,272,198,1 85,79,197,191,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000011.jpg 309,104,365,160,5 20,226,48,254,4 182,262,210,290,8 156,156,240,240,1 256,298,368,410,5 36,32,120,116,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000012.jpg 195,209,209,223,1 227,45,283,101,0 152,145,194,187,9 147,320,189,362,6 107,360,149,402,6 248,144,332,228,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000013.jpg 102,113,124,135,1 308,260,364,316,5 45,245,87,287,3 147,227,175,255,4 133,28,245,140,1 296,157,380,241,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000014.jpg 174,281,196,303,7 311,163,333,185,1 198,297,212,311,4 19,131,75,187,3 250,97,306,153,1 135,31,219,115,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000015.jpg 198,148,220,170,6 186,40,200,54,8 92,15,134,57,1 69,286,97,314,1 188,193,216,221,9 222,355,278,411,1 131,25,243,137,4 107,329,191,413,4 292,28,404,140,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000016.jpg 281,197,303,219,6 101,370,115,384,8 356,46,384,74,6 214,116,256,158,6 323,143,365,185,4 260,236,316,292,2 293,56,321,84,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000017.jpg 95,71,109,85,6 79,189,93,203,5 164,16,192,44,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000018.jpg 308,130,330,152,4 158,112,172,126,5 291,100,313,122,7 377,199,405,227,7 75,53,131,109,0 102,121,186,205,2 226,311,310,395,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000019.jpg 371,106,393,128,7 60,44,102,86,3 189,378,217,406,7 39,250,67,278,3 120,139,232,251,1 152,6,264,118,0 72,257,156,341,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000020.jpg 341,390,355,404,0 199,297,255,353,6 282,240,324,282,2 208,230,250,272,7 220,30,332,142,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000021.jpg 330,160,352,182,3 335,135,349,149,2 323,8,407,92,1 115,134,199,218,3 206,208,318,320,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000022.jpg 31,334,73,376,8 308,345,350,387,6 373,162,401,190,8 307,75,335,103,3 139,140,195,196,3 279,0,335,56,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000023.jpg 252,201,274,223,8 347,310,369,332,5 56,248,70,262,7 138,132,194,188,7 137,361,179,403,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000024.jpg 12,301,54,343,1 119,210,147,238,9 294,107,322,135,2 324,189,380,245,9 271,28,327,84,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000025.jpg 200,57,242,99,1 301,260,343,302,7 162,147,218,203,7 178,249,262,333,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000026.jpg 262,170,276,184,4 275,181,297,203,0 106,342,120,356,6 289,338,345,394,8 150,147,192,189,2 22,349,78,405,3 186,57,298,169,5 52,172,164,284,3 197,256,281,340,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000027.jpg 115,52,129,66,3 95,323,117,345,7 134,120,148,134,6 274,178,316,220,9 146,78,258,190,2 39,13,151,125,4 46,189,130,273,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000028.jpg 381,80,395,94,1 29,290,51,312,3 97,328,153,384,3 180,139,208,167,2 16,4,58,46,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000029.jpg 287,145,309,167,9 394,238,408,252,6 318,338,340,360,8 60,194,102,236,9 36,253,78,295,1 145,284,173,312,4 201,111,285,195,0 64,57,148,141,6 286,216,398,328,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000030.jpg 365,7,379,21,8 355,275,411,331,8 83,281,125,323,2 271,124,299,152,5 72,5,114,47,4 5,70,117,182,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000031.jpg 105,170,127,192,3 270,263,312,305,2 249,340,291,382,7 333,215,389,271,6 254,68,310,124,1 137,167,249,279,4 10,32,122,144,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000032.jpg 89,280,103,294,0 370,313,392,335,9 115,188,157,230,5 268,300,352,384,8 176,146,288,258,5 62,6,174,118,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000033.jpg 90,316,104,330,0 136,43,164,71,5 234,370,276,412,7 314,127,356,169,3 387,77,415,105,4 227,229,255,257,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000034.jpg 63,73,91,101,6 340,188,396,244,2 336,274,364,302,9 1,251,43,293,8 173,89,285,201,5 214,322,298,406,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000035.jpg 331,184,353,206,2 358,112,400,154,4 344,269,400,325,4 297,2,325,30,6 106,244,190,328,1 207,260,319,372,2 15,252,99,336,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000036.jpg 368,192,382,206,5 140,171,168,199,4 242,204,284,246,6 153,231,209,287,7 71,170,127,226,0 163,64,219,120,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000037.jpg 290,192,312,214,6 92,85,106,99,9 326,97,368,139,6 370,316,412,358,4 251,303,363,415,2 159,102,243,186,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000038.jpg 25,192,67,234,1 197,153,253,209,1 264,186,292,214,8 342,330,398,386,9 110,153,152,195,5 362,219,390,247,9 55,248,167,360,7 294,42,406,154,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000039.jpg 316,303,338,325,9 94,32,108,46,3 384,277,406,299,2 192,257,276,341,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000040.jpg 299,224,355,280,3 353,361,395,403,5 199,40,255,96,1 197,307,281,391,0 302,20,414,132,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000041.jpg 313,81,335,103,8 195,79,251,135,3 185,300,213,328,7 215,161,257,203,0 218,220,330,332,1 72,224,156,308,6 84,47,168,131,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000042.jpg 102,308,144,350,7 40,231,82,273,4 198,93,310,205,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000043.jpg 173,214,195,236,5 192,181,206,195,4 197,25,239,67,5 96,364,124,392,3 296,92,324,120,3 50,23,92,65,3 23,112,79,168,0 41,259,97,315,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000044.jpg 231,226,287,282,4 384,304,412,332,7 356,336,398,378,4 230,55,258,83,7 102,43,144,85,2 73,163,185,275,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000045.jpg 76,138,98,160,0 17,235,31,249,0 326,104,340,118,1 266,310,308,352,2 169,252,225,308,0 176,100,218,142,6 180,191,236,247,4 53,315,95,357,6 319,66,347,94,3 298,153,410,265,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000046.jpg 0,2,22,24,5 186,13,298,125,2 315,35,399,119,8 72,287,156,371,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000047.jpg 217,343,231,357,7 219,245,241,267,9 291,251,319,279,8 371,332,413,374,8 363,2,391,30,2 156,208,198,250,7 168,263,252,347,6 278,96,362,180,2 68,300,152,384,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000048.jpg 177,205,191,219,7 6,59,28,81,1 257,189,313,245,2 336,202,378,244,0 150,95,206,151,9 10,312,66,368,3 55,78,83,106,2 38,211,150,323,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000049.jpg 205,190,219,204,3 399,256,413,270,5 259,208,301,250,3 312,72,396,156,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000050.jpg 188,89,202,103,4 318,184,332,198,3 400,267,414,281,7 309,281,337,309,1 283,139,325,181,5 337,275,365,303,7 47,294,159,406,7 87,54,199,166,3 324,164,408,248,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000051.jpg 0,292,42,334,2 99,10,183,94,1 230,7,314,91,7 301,266,413,378,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000052.jpg 311,173,333,195,2 259,259,281,281,7 357,334,379,356,3 335,184,363,212,6 365,50,393,78,1 111,360,153,402,9 269,60,325,116,0 202,204,258,260,1 339,383,367,411,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000053.jpg 33,333,47,347,4 4,72,18,86,3 52,95,94,137,5 309,283,365,339,6 191,290,247,346,9 367,327,395,355,7 297,74,353,130,3 18,249,74,305,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000054.jpg 295,297,323,325,6 221,282,263,324,2 47,167,131,251,0 167,39,279,151,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000055.jpg 113,25,127,39,2 134,31,246,143,7 213,236,325,348,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000056.jpg 263,401,277,415,9 230,391,244,405,6 329,139,357,167,8 195,65,237,107,2 26,215,54,243,1 151,153,193,195,1 142,341,198,397,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000057.jpg 139,113,153,127,4 26,66,40,80,9 247,257,275,285,2 156,298,184,326,1 328,240,370,282,2 245,331,273,359,4 21,110,77,166,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000058.jpg 155,157,177,179,5 46,334,60,348,6 144,142,158,156,7 204,361,232,389,1 230,309,272,351,8 50,45,134,129,4 42,274,154,386,1 281,316,365,400,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000059.jpg 229,232,251,254,3 286,346,328,388,9 33,34,117,118,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000060.jpg 329,37,343,51,2 68,243,90,265,3 225,82,247,104,8 361,49,389,77,6 368,1,410,43,6 317,181,373,237,1 291,58,347,114,4 206,203,318,315,7 3,1,115,113,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000061.jpg 266,14,280,28,3 263,340,285,362,8 18,189,40,211,0 151,112,193,154,1 8,111,36,139,1 168,238,224,294,7 51,256,93,298,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000062.jpg 282,105,304,127,1 211,337,233,359,1 164,73,186,95,6 259,158,301,200,9 156,100,184,128,8 337,310,365,338,7 327,122,411,206,3 121,150,205,234,3 51,251,163,363,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000063.jpg 207,286,221,300,4 43,174,65,196,3 60,314,116,370,5 164,352,192,380,3 232,94,288,150,8 300,240,384,324,1 304,114,388,198,8 131,94,215,178,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000064.jpg 60,378,74,392,1 82,151,96,165,5 361,370,389,398,1 135,97,163,125,6 267,233,295,261,3 245,338,287,380,1 319,60,347,88,9 66,245,122,301,4 28,46,140,158,7 115,176,227,288,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000065.jpg 258,245,280,267,7 305,72,327,94,5 366,282,408,324,1 122,271,234,383,4 80,195,164,279,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000066.jpg 215,60,257,102,7 70,146,182,258,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000067.jpg 352,223,366,237,8 186,7,200,21,4 33,188,47,202,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000068.jpg 221,162,235,176,7 95,11,117,33,9 310,327,324,341,5 116,260,158,302,9 196,109,308,221,0 312,44,396,128,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000069.jpg 236,186,250,200,4 112,175,126,189,1 59,50,81,72,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000070.jpg 322,26,344,48,6 17,84,31,98,0 160,34,174,48,8 311,313,353,355,1 111,340,153,382,8 5,53,33,81,1 168,330,196,358,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000071.jpg 314,235,336,257,1 216,385,238,407,8 42,274,70,302,5 49,372,77,400,9 68,143,124,199,3 171,136,213,178,3 90,294,202,406,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000072.jpg 6,218,20,232,5 89,325,103,339,3 238,61,260,83,2 140,322,196,378,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000073.jpg 18,29,40,51,2 244,247,266,269,5 310,46,324,60,1 95,59,123,87,8 300,294,328,322,8 122,123,178,179,5 178,262,234,318,6 259,168,287,196,4 116,178,144,206,4 309,103,393,187,4 6,188,118,300,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000074.jpg 226,399,240,413,7 293,349,349,405,5 112,285,140,313,1 249,57,305,113,1 97,360,125,388,5 367,124,395,152,2 236,180,320,264,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000075.jpg 325,217,347,239,1 325,11,353,39,3 204,14,260,70,2 74,8,186,120,1 82,144,194,256,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000076.jpg 178,66,200,88,4 162,46,184,68,8 196,105,210,119,7 283,212,339,268,6 131,264,173,306,3 179,296,263,380,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000077.jpg 343,280,371,308,3 40,64,96,120,5 104,159,132,187,3 323,313,407,397,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000078.jpg 11,7,25,21,0 42,220,64,242,8 136,127,164,155,3 220,295,262,337,2 54,311,110,367,4 206,157,262,213,4 277,24,389,136,8 110,291,222,403,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000079.jpg 61,78,75,92,4 355,63,411,119,5 162,273,246,357,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000080.jpg 347,319,369,341,7 125,106,147,128,0 178,184,234,240,0 71,14,127,70,2 316,193,344,221,6 114,142,170,198,2 207,296,263,352,0 184,41,296,153,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000081.jpg 125,148,139,162,7 365,343,379,357,5 388,114,410,136,0 85,208,169,292,5 303,7,415,119,5 312,239,396,323,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000082.jpg 362,46,376,60,0 342,219,364,241,0 62,158,84,180,6 273,347,301,375,2 116,157,172,213,8 337,70,365,98,2 108,5,220,117,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000083.jpg 282,15,304,37,9 259,266,287,294,4 169,15,211,57,6 114,299,156,341,6 43,244,99,300,3 278,212,320,254,6 231,16,273,58,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000084.jpg 336,246,350,260,4 202,320,224,342,8 244,282,272,310,6 124,335,152,363,9 41,80,125,164,1 284,71,368,155,5 3,248,87,332,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000085.jpg 17,383,39,405,5 21,283,43,305,4 364,199,406,241,3 181,3,223,45,4 293,308,321,336,3 108,356,164,412,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000086.jpg 79,67,101,89,2 315,216,399,300,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000087.jpg 283,196,305,218,4 210,137,232,159,3 261,188,275,202,3 177,287,219,329,8 29,252,57,280,7 328,243,370,285,5 66,228,178,340,8 260,92,372,204,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000088.jpg 204,221,218,235,0 159,92,181,114,8 169,189,183,203,5 43,222,99,278,5 179,252,221,294,1 206,344,262,400,0 107,331,149,373,0 224,41,336,153,4 301,241,413,353,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000089.jpg 44,274,72,302,0 302,17,330,45,6 115,64,143,92,0 214,317,270,373,0 277,360,305,388,5 141,59,253,171,0 31,156,143,268,7 281,242,365,326,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000090.jpg 8,69,36,97,8 53,41,95,83,9 242,33,298,89,2 177,301,219,343,5 6,213,90,297,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000091.jpg 232,213,254,235,1 214,278,228,292,1 45,333,101,389,0 232,18,288,74,3 217,177,245,205,5 370,49,398,77,9 385,365,413,393,7 314,260,398,344,5 293,110,405,222,4 108,6,220,118,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000092.jpg 56,362,70,376,9 102,266,158,322,5 46,133,158,245,3 46,7,158,119,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000093.jpg 281,388,295,402,3 359,324,373,338,7 230,187,258,215,4 148,223,232,307,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000094.jpg 8,128,22,142,1 117,214,159,256,8 215,301,257,343,2 57,261,99,303,1 157,0,185,28,5 325,339,367,381,2 55,340,97,382,5 56,135,140,219,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000095.jpg 18,13,40,35,9 52,163,74,185,3 234,158,262,186,9 319,87,375,143,9 335,295,363,323,8 39,82,95,138,1 56,261,98,303,3 99,138,183,222,7 120,270,204,354,0 222,279,334,391,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000096.jpg 271,393,293,415,4 2,298,16,312,8 361,215,375,229,3 121,189,149,217,6 244,313,328,397,1 195,174,307,286,9 41,308,125,392,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000097.jpg 341,171,363,193,8 329,69,351,91,6 242,205,264,227,1 285,224,313,252,4 6,220,62,276,5 124,191,180,247,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000098.jpg 84,374,106,396,9 155,306,183,334,4 13,179,55,221,0 116,163,144,191,7 175,153,259,237,9 317,114,401,198,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000099.jpg 199,92,213,106,2 212,30,240,58,1 6,227,48,269,3 241,269,325,353,9 245,115,357,227,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000100.jpg 139,61,223,145,1 76,311,160,395,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000101.jpg 5,51,47,93,9 217,132,301,216,0 64,242,176,354,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000102.jpg 341,270,355,284,2 142,226,184,268,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000103.jpg 252,78,266,92,6 249,249,263,263,7 21,156,43,178,1 29,333,57,361,9 199,215,311,327,5 281,322,365,406,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000104.jpg 225,47,267,89,3 170,176,198,204,1 124,32,152,60,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000105.jpg 175,322,197,344,8 54,79,96,121,7 376,36,404,64,2 284,213,340,269,1 24,283,52,311,7 42,352,70,380,3 369,93,397,121,1 258,33,370,145,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000106.jpg 30,160,72,202,6 171,261,199,289,1 227,102,269,144,5 87,124,115,152,0 119,196,161,238,9 191,284,303,396,8 301,39,413,151,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000107.jpg 17,333,31,347,2 326,247,340,261,6 115,61,137,83,7 303,121,345,163,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000108.jpg 46,350,68,372,2 107,167,163,223,9 304,277,360,333,3 56,20,140,104,1 241,26,325,110,3 121,228,205,312,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000109.jpg 147,388,161,402,0 72,356,94,378,8 188,347,244,403,8 379,112,407,140,5 265,22,321,78,5 205,95,247,137,2 21,157,63,199,4 54,9,166,121,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000110.jpg 40,0,62,22,5 1,72,113,184,4 173,9,257,93,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000111.jpg 245,74,267,96,9 72,132,184,244,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000112.jpg 234,392,248,406,7 178,207,220,249,0 164,174,192,202,8 12,72,96,156,1 29,217,141,329,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000113.jpg 344,127,366,149,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000114.jpg 30,3,142,115,9 157,143,241,227,4 147,274,259,386,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000115.jpg 106,307,134,335,3 35,146,77,188,9 188,47,216,75,7 349,309,377,337,3 225,289,281,345,7 140,150,196,206,8 260,25,372,137,5 291,180,375,264,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000116.jpg 146,146,160,160,4 216,315,238,337,9 163,44,191,72,5 93,275,135,317,0 54,156,82,184,8 346,122,402,178,5 15,355,43,383,5 329,305,413,389,5 14,223,98,307,1 44,66,128,150,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000117.jpg 329,382,357,410,8 213,118,269,174,0 6,331,48,373,4 191,219,233,261,5 298,202,354,258,1 135,268,219,352,1 274,39,386,151,6 68,72,180,184,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000118.jpg 370,192,384,206,8 401,6,415,20,4 109,138,131,160,1 283,264,339,320,7 188,154,230,196,4 356,268,398,310,9 11,227,67,283,0 134,311,190,367,3 251,60,363,172,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000119.jpg 45,179,59,193,0 28,33,56,61,1 216,272,258,314,8 216,127,272,183,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000120.jpg 201,260,215,274,1 276,321,290,335,9 239,249,253,263,5 38,189,150,301,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000121.jpg 3,99,115,211,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000122.jpg 285,365,307,387,5 274,100,296,122,9 278,30,320,72,0 106,165,134,193,2 274,331,302,359,3 96,229,208,341,5 291,144,403,256,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000123.jpg 195,370,223,398,0 127,314,155,342,7 235,34,263,62,1 143,37,171,65,2 175,55,203,83,8 344,23,400,79,7 199,77,283,161,5 9,218,121,330,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000124.jpg 361,31,375,45,2 68,159,90,181,4 70,89,98,117,2 122,309,178,365,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000125.jpg 386,304,414,332,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000126.jpg 151,202,165,216,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000127.jpg 325,186,347,208,8 186,82,242,138,6 307,103,349,145,3 262,131,304,173,7 97,267,139,309,4 31,5,143,117,6 287,268,371,352,6 86,307,170,391,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000128.jpg 320,145,404,229,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000129.jpg 231,49,245,63,7 40,6,54,20,5 62,355,104,397,8 232,341,274,383,2 215,239,257,281,5 68,144,152,228,4 134,284,218,368,4 31,40,115,124,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000130.jpg 133,9,155,31,2 261,356,283,378,8 323,195,337,209,3 313,49,369,105,3 336,257,364,285,1 143,86,185,128,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000131.jpg 36,391,58,413,6 60,162,144,246,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000132.jpg 260,110,274,124,9 301,260,323,282,6 1,27,23,49,0 259,222,287,250,6 126,43,182,99,1 81,381,109,409,7 176,76,288,188,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000133.jpg 75,316,97,338,9 48,98,62,112,8 369,372,383,386,9 4,210,32,238,4 80,252,136,308,6 354,9,410,65,9 282,82,324,124,1 125,85,237,197,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000134.jpg 212,119,226,133,0 343,120,365,142,5 54,187,68,201,7 142,135,198,191,1 157,71,199,113,4 326,22,354,50,7 333,329,361,357,5 20,90,104,174,7 66,326,150,410,3 139,234,251,346,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000135.jpg 320,108,334,122,7 238,200,260,222,1 203,264,217,278,6 257,262,341,346,4 165,105,249,189,2 40,238,152,350,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000136.jpg 370,252,384,266,0 368,151,390,173,6 186,153,208,175,4 177,1,233,57,5 45,315,87,357,7 243,2,271,30,7 266,30,322,86,9 12,158,124,270,3 175,227,287,339,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000137.jpg 243,252,327,336,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000138.jpg 232,67,246,81,0 215,189,243,217,3 51,107,107,163,2 183,299,211,327,0 321,249,377,305,7 248,103,360,215,2 4,215,88,299,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000139.jpg 127,371,141,385,2 126,16,154,44,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000140.jpg 238,58,280,100,0 230,139,286,195,0 375,24,403,52,6 355,307,383,335,4 2,188,58,244,9 131,194,187,250,0 118,81,202,165,0 8,53,120,165,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000141.jpg 388,46,410,68,4 140,139,162,161,7 53,303,75,325,3 236,143,278,185,8 252,274,308,330,2 63,16,105,58,1 321,88,405,172,0 142,299,254,411,5 192,9,276,93,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000142.jpg 193,145,249,201,6 78,153,134,209,4 65,5,177,117,9 258,156,342,240,1 285,240,369,324,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000143.jpg 367,68,381,82,3 249,104,263,118,2 317,196,401,280,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000144.jpg 120,75,142,97,5 56,267,70,281,0 138,33,160,55,3 98,278,210,390,3 290,42,402,154,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000145.jpg 251,286,265,300,3 33,306,75,348,2 168,142,196,170,2 354,45,382,73,4 276,257,318,299,6 144,308,228,392,4 35,45,147,157,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000146.jpg 33,122,47,136,1 53,179,67,193,5 303,43,359,99,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000147.jpg 333,244,361,272,4 43,259,155,371,0 261,105,373,217,9 12,137,124,249,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000148.jpg 201,332,229,360,5 362,341,404,383,4 154,2,182,30,8 267,241,295,269,4 185,154,213,182,4 291,188,347,244,0 290,6,374,90,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000149.jpg 296,53,352,109,8 162,131,274,243,5 72,294,184,406,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000150.jpg 77,339,91,353,6 52,356,74,378,6 139,377,161,399,8 226,196,282,252,2 255,85,367,197,2 40,38,124,122,4 86,203,198,315,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000151.jpg 340,96,362,118,7 207,132,235,160,9 308,379,336,407,8 368,237,410,279,9 22,280,50,308,3 33,182,61,210,6 275,268,331,324,5 45,48,157,160,7 66,177,150,261,0 213,26,325,138,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000152.jpg 158,342,200,384,6 71,261,113,303,3 215,81,327,193,6 192,221,276,305,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000153.jpg 221,129,243,151,2 233,79,261,107,3 376,36,404,64,7 58,7,142,91,2 62,145,146,229,8 258,11,342,95,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000154.jpg 294,174,316,196,7 392,276,406,290,8 54,30,96,72,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000155.jpg 321,116,335,130,3 374,138,402,166,5 157,164,241,248,4 149,248,261,360,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000156.jpg 401,117,415,131,1 238,273,252,287,6 135,232,157,254,3 139,91,181,133,9 136,342,178,384,5 161,191,217,247,5 180,249,222,291,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000157.jpg 172,258,194,280,5 302,346,324,368,1 35,48,147,160,0 139,281,251,393,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000158.jpg 303,168,325,190,7 209,157,231,179,0 197,235,253,291,6 94,70,206,182,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000159.jpg 88,381,102,395,9 140,114,168,142,9 332,243,360,271,0 123,183,151,211,2 263,270,375,382,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000160.jpg 309,313,323,327,3 297,81,311,95,2 165,302,249,386,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000161.jpg 285,343,299,357,2 129,323,143,337,0 237,309,279,351,8 352,292,394,334,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000162.jpg 245,152,259,166,4 287,260,309,282,7 104,44,160,100,4 225,293,267,335,5 36,190,92,246,2 310,69,352,111,2 204,130,246,172,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000163.jpg 374,354,388,368,0 78,311,120,353,7 117,194,159,236,1 150,90,178,118,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000164.jpg 185,311,213,339,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000165.jpg 104,137,146,179,1 302,129,330,157,3 367,359,409,401,7 257,268,285,296,6 50,249,106,305,6 139,198,223,282,7 221,315,305,399,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000166.jpg 250,172,264,186,8 64,145,78,159,3 176,275,198,297,3 278,269,306,297,6 164,381,192,409,8 354,358,396,400,8 58,200,100,242,5 147,133,175,161,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000167.jpg 83,324,97,338,2 87,292,101,306,3 205,34,247,76,3 281,89,365,173,6 117,116,201,200,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000168.jpg 204,336,218,350,1 380,322,402,344,9 336,30,378,72,2 55,201,111,257,5 121,59,163,101,9 199,199,311,311,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000169.jpg 288,205,310,227,7 145,339,167,361,7 314,11,336,33,7 365,333,393,361,1 154,101,210,157,4 117,160,159,202,5 173,375,201,403,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000170.jpg 284,71,340,127,2 125,4,153,32,4 78,371,106,399,0 152,8,194,50,8 37,264,121,348,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000171.jpg 262,21,290,49,4 320,115,348,143,1 10,6,66,62,7 274,345,330,401,1 149,169,205,225,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000172.jpg 266,196,280,210,0 372,199,386,213,2 193,360,207,374,3 242,277,298,333,6 14,64,42,92,4 86,50,114,78,6 185,89,241,145,4 293,75,321,103,7 30,165,142,277,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000173.jpg 73,105,95,127,0 206,47,290,131,3 45,160,157,272,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000174.jpg 288,192,316,220,4 262,56,290,84,9 305,250,347,292,6 20,217,62,259,6 132,212,160,240,7 108,237,220,349,3 159,99,243,183,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000175.jpg 26,368,40,382,9 317,80,345,108,3 43,137,71,165,2 272,271,300,299,6 177,170,205,198,7 329,320,385,376,2 71,22,155,106,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000176.jpg 64,203,86,225,9 233,24,261,52,1 136,105,248,217,5 153,295,265,407,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000177.jpg 123,372,137,386,5 121,194,135,208,0 82,282,96,296,9 128,42,170,84,4 36,146,148,258,4 293,49,405,161,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000178.jpg 9,304,31,326,3 144,89,158,103,2 216,164,238,186,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000179.jpg 142,267,164,289,7 290,92,402,204,9 56,15,168,127,8 297,231,381,315,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000180.jpg 211,279,225,293,3 141,49,155,63,9 395,362,409,376,3 18,171,74,227,3 59,16,101,58,2 75,139,131,195,2 376,98,404,126,9 303,222,331,250,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000181.jpg 219,51,247,79,6 77,154,105,182,1 143,291,199,347,7 333,61,361,89,2 160,42,216,98,2 248,12,276,40,0 9,34,93,118,2 143,179,255,291,4 0,209,112,321,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000182.jpg 394,197,408,211,4 32,176,60,204,4 80,118,136,174,0 175,79,203,107,8 2,28,58,84,5 123,327,207,411,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000183.jpg 307,162,329,184,7 300,252,314,266,9 270,131,284,145,7 377,101,405,129,5 218,175,260,217,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000184.jpg 177,162,191,176,6 104,314,126,336,4 55,78,69,92,5 330,118,372,160,0 4,203,60,259,9 130,191,186,247,2 119,20,147,48,5 195,317,251,373,0 296,264,338,306,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000185.jpg 90,114,202,226,4 239,277,323,361,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000186.jpg 7,396,21,410,2 145,78,159,92,9 187,372,209,394,0 169,92,211,134,6 94,297,150,353,0 99,256,141,298,2 164,252,220,308,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000187.jpg 205,314,227,336,3 61,134,83,156,6 361,49,403,91,5 262,68,290,96,6 177,222,205,250,3 353,249,381,277,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000188.jpg 56,12,98,54,4 177,79,219,121,6 135,158,177,200,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000189.jpg 218,319,274,375,7 139,147,167,175,4 110,127,138,155,3 132,247,160,275,6 63,35,147,119,6 205,139,289,223,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000190.jpg 91,32,105,46,2 346,229,368,251,1 362,88,404,130,0 312,136,368,192,0 277,82,319,124,9 11,73,39,101,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000191.jpg 341,91,355,105,9 229,269,251,291,6 255,123,269,137,3 94,143,136,185,7 224,29,280,85,2 264,324,348,408,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000192.jpg 387,114,409,136,0 315,42,329,56,9 64,201,86,223,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000193.jpg 243,130,285,172,7 353,91,395,133,8 309,147,365,203,8 51,67,93,109,9 348,317,376,345,0 81,157,109,185,1 244,250,328,334,4 90,206,202,318,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000194.jpg 375,184,397,206,1 118,45,160,87,4 81,185,137,241,0 299,50,341,92,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000195.jpg 236,256,292,312,3 244,78,328,162,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000196.jpg 391,341,405,355,6 197,79,219,101,3 337,215,351,229,0 259,324,315,380,6 103,291,159,347,6 212,195,296,279,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000197.jpg 162,91,184,113,6 288,394,302,408,3 314,247,336,269,3 42,295,98,351,3 113,357,155,399,1 22,161,78,217,1 289,328,331,370,2 223,26,335,138,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000198.jpg 29,138,43,152,5 8,90,30,112,3 179,318,201,340,3 62,274,90,302,9 141,283,183,325,0 9,288,65,344,3 318,173,360,215,1 13,224,69,280,0 82,35,194,147,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000199.jpg 39,397,53,411,1 330,146,344,160,8 204,234,226,256,0 297,50,339,92,3 221,229,305,313,0 76,273,188,385,3 75,36,159,120,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000200.jpg 128,152,142,166,2 161,121,203,163,6 90,169,202,281,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000201.jpg 277,93,305,121,7 23,29,79,85,9 36,131,92,187,0 188,297,300,409,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000202.jpg 24,2,46,24,0 389,203,403,217,6 162,249,176,263,7 117,179,173,235,4 53,36,109,92,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000203.jpg 151,391,165,405,7 82,292,96,306,5 113,60,169,116,4 132,253,160,281,6 242,243,284,285,1 32,139,144,251,9 270,155,354,239,9 24,287,136,399,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000204.jpg 266,23,288,45,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000205.jpg 10,243,66,299,2 185,203,227,245,6 81,109,137,165,7 17,130,59,172,4 90,333,146,389,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000206.jpg 40,151,68,179,1 137,42,165,70,1 74,56,116,98,6 183,329,239,385,8 229,292,271,334,7 148,213,176,241,7 211,89,323,201,1 50,220,134,304,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000207.jpg 272,182,328,238,8 245,291,287,333,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000208.jpg 290,355,346,411,8 134,38,176,80,8 227,310,269,352,3 179,357,221,399,1 270,4,354,88,4 58,169,170,281,3 186,170,298,282,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000209.jpg 301,313,315,327,3 109,118,165,174,4 350,381,378,409,7 323,214,365,256,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000210.jpg 401,92,415,106,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000211.jpg 231,254,253,276,2 125,265,181,321,9 291,131,319,159,9 284,225,368,309,6 6,227,90,311,6 40,309,124,393,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000212.jpg 361,180,375,194,8 272,312,286,326,4 85,189,107,211,3 303,76,331,104,9 193,78,277,162,6 173,316,257,400,7 84,14,168,98,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000213.jpg 333,269,355,291,5 165,350,179,364,1 205,370,233,398,6 315,14,343,42,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000214.jpg 376,2,398,24,4 360,326,382,348,3 81,234,137,290,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000215.jpg 338,210,352,224,8 189,205,211,227,2 210,261,322,373,8 133,45,217,129,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000216.jpg 272,268,294,290,7 204,368,226,390,9 171,189,213,231,8 109,319,137,347,9 305,20,347,62,7 116,33,200,117,3 256,123,368,235,1 15,214,127,326,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000217.jpg 102,230,124,252,0 351,79,393,121,6 292,53,334,95,0 188,228,272,312,6 52,278,136,362,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000218.jpg 315,314,329,328,1 258,295,280,317,2 63,175,77,189,5 221,376,249,404,6 148,317,204,373,8 347,220,375,248,9 319,38,375,94,1 221,24,249,52,5 116,353,144,381,6 53,216,137,300,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000219.jpg 227,30,241,44,6 124,66,146,88,2 26,133,40,147,1 302,8,358,64,1 281,59,309,87,3 277,342,319,384,4 283,201,395,313,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000220.jpg 71,150,93,172,1 374,371,388,385,1 3,332,25,354,1 203,164,231,192,9 212,272,268,328,1 60,188,116,244,4 309,311,351,353,4 160,232,202,274,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000221.jpg 40,138,54,152,2 6,348,48,390,5 319,99,361,141,9 80,120,108,148,7 55,275,139,359,0 271,198,383,310,5 116,122,200,206,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000222.jpg 357,386,371,400,8 12,339,34,361,0 180,66,208,94,1 110,257,222,369,3 232,211,344,323,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000223.jpg 208,64,236,92,0 122,0,178,56,8 117,237,229,349,5 229,181,341,293,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000224.jpg 60,196,82,218,4 240,229,262,251,4 2,206,24,228,7 10,74,52,116,3 93,367,121,395,8 203,341,259,397,3 357,302,399,344,2 303,125,415,237,6 65,97,177,209,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000225.jpg 22,64,36,78,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000226.jpg 357,274,371,288,5 185,2,207,24,5 357,225,371,239,5 283,15,339,71,4 100,204,156,260,7 49,316,105,372,6 43,147,85,189,4 212,252,324,364,7 109,107,193,191,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000227.jpg 244,33,266,55,4 33,208,89,264,3 148,302,204,358,2 332,354,360,382,5 105,191,147,233,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000228.jpg 319,341,341,363,7 304,291,332,319,2 312,194,354,236,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000229.jpg 204,44,226,66,9 111,96,125,110,4 81,298,109,326,7 105,191,161,247,3 49,60,161,172,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000230.jpg 342,146,364,168,6 8,24,22,38,8 277,23,319,65,2 131,12,173,54,4 34,3,118,87,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000231.jpg 127,50,141,64,4 350,236,364,250,4 30,334,52,356,2 347,259,389,301,7 17,25,59,67,6 81,203,165,287,0 180,260,292,372,3 199,128,311,240,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000232.jpg 321,142,335,156,5 228,43,250,65,4 223,288,245,310,2 315,10,357,52,1 178,314,220,356,0 250,29,292,71,4 159,68,271,180,2 269,83,381,195,2 13,26,97,110,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000233.jpg 197,42,281,126,1 70,142,182,254,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000234.jpg 353,85,375,107,3 98,275,112,289,4 40,175,62,197,9 258,348,300,390,2 34,280,62,308,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000235.jpg 67,335,109,377,0 272,28,328,84,1 87,37,129,79,5 292,261,404,373,0 188,153,272,237,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000236.jpg 6,249,28,271,2 106,126,148,168,1 32,67,74,109,7 34,176,90,232,2 283,8,395,120,1 50,260,134,344,9 216,212,300,296,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000237.jpg 103,221,145,263,9 297,20,353,76,4 239,130,281,172,0 67,378,95,406,6 182,133,238,189,2 183,202,267,286,3 278,80,390,192,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000238.jpg 216,155,238,177,5 24,203,80,259,9 93,133,149,189,3 205,63,247,105,0 67,328,109,370,6 187,223,243,279,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000239.jpg 61,293,83,315,4 279,394,293,408,4 9,93,23,107,0 254,62,366,174,0 263,198,347,282,0 22,188,134,300,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000240.jpg 364,100,406,142,7 47,200,75,228,5 59,303,101,345,3 267,350,295,378,6 161,113,217,169,0 135,204,219,288,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000241.jpg 278,1,292,15,6 322,174,336,188,3 309,218,351,260,4 87,341,143,397,7 383,265,411,293,6 144,84,186,126,7 133,201,217,285,5 30,128,114,212,3 324,291,408,375,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000242.jpg 198,97,212,111,3 169,373,197,401,9 154,129,196,171,7 230,337,272,379,9 349,96,391,138,3 329,298,413,382,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000243.jpg 193,115,235,157,2 250,171,292,213,6 351,263,393,305,5 280,90,364,174,9 118,162,230,274,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000244.jpg 358,60,386,88,5 299,311,341,353,6 345,321,373,349,4 55,361,97,403,0 71,50,99,78,1 140,177,252,289,1 120,30,232,142,9 38,139,122,223,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000245.jpg 160,285,174,299,3 371,116,399,144,8 365,290,393,318,6 282,309,324,351,1 55,264,83,292,1 299,159,383,243,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000246.jpg 260,113,282,135,2 321,120,335,134,7 60,328,88,356,0 339,158,381,200,6 383,276,411,304,1 199,11,311,123,2 27,105,139,217,0 191,143,303,255,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000247.jpg 376,154,398,176,0 188,212,202,226,0 357,184,379,206,6 129,287,185,343,8 201,156,257,212,7 259,77,301,119,7 39,217,95,273,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000248.jpg 396,110,410,124,2 30,309,86,365,1 289,177,317,205,6 199,94,255,150,1 146,187,230,271,2 150,0,234,84,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000249.jpg 54,372,76,394,5 218,2,260,44,4 152,169,180,197,2 46,125,74,153,9 244,283,300,339,5 159,320,243,404,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000250.jpg 197,35,211,49,6 154,240,168,254,3 270,269,284,283,8 266,0,350,84,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000251.jpg 175,237,189,251,3 89,178,111,200,7 105,108,127,130,3 20,198,62,240,4 181,272,237,328,4 239,85,351,197,9 296,315,380,399,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000252.jpg 62,372,84,394,3 287,102,301,116,8 336,168,364,196,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000253.jpg 10,182,122,294,6 243,326,327,410,2 257,102,341,186,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000254.jpg 214,213,228,227,8 217,36,245,64,0 169,252,281,364,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000255.jpg 337,160,393,216,2 201,98,257,154,0 22,182,64,224,8 117,203,173,259,5 361,361,403,403,9 323,253,379,309,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000256.jpg 367,22,389,44,1 204,243,260,299,7 18,386,46,414,8 24,139,66,181,3 10,328,52,370,8 342,288,384,330,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000257.jpg 257,295,271,309,0 107,16,121,30,7 26,115,40,129,7 206,17,290,101,6 83,153,167,237,2 44,256,156,368,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000258.jpg 200,31,222,53,8 208,94,222,108,6 28,32,50,54,3 325,119,409,203,2 42,67,126,151,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000259.jpg 103,101,117,115,1 190,55,204,69,6 2,349,24,371,8 53,149,81,177,4 270,26,326,82,1 59,16,171,128,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000260.jpg 398,256,412,270,9 384,180,406,202,1 29,75,43,89,8 318,129,360,171,0 311,44,367,100,6 32,319,88,375,6 71,243,113,285,3 168,33,252,117,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000261.jpg 132,248,154,270,5 63,280,91,308,1 28,9,84,65,0 329,67,413,151,3 206,197,318,309,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000262.jpg 276,144,318,186,5 72,235,114,277,8 357,66,413,122,7 142,79,184,121,1 373,180,415,222,1 109,286,221,398,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000263.jpg 237,314,251,328,0 220,350,242,372,0 333,303,389,359,5 164,72,192,100,7 183,133,239,189,3 250,84,334,168,8 182,230,294,342,0 46,138,158,250,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000264.jpg 284,145,306,167,4 96,260,110,274,1 129,169,143,183,5 349,352,405,408,9 127,276,211,360,1 25,13,137,125,3 158,52,242,136,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000265.jpg 113,254,141,282,8 332,318,388,374,5 29,224,71,266,5 118,47,202,131,0 227,235,339,347,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000266.jpg 93,253,121,281,8 150,247,192,289,3 222,52,334,164,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000267.jpg 89,164,131,206,5 333,29,361,57,6 221,284,263,326,1 0,350,42,392,1 223,153,307,237,9 135,98,219,182,8 38,201,122,285,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000268.jpg 267,115,289,137,2 275,263,297,285,2 275,384,297,406,2 301,182,343,224,4 111,338,153,380,6 164,148,206,190,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000269.jpg 254,310,276,332,8 330,101,372,143,3 155,253,183,281,2 290,258,346,314,5 256,52,298,94,1 365,186,393,214,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000270.jpg 210,362,232,384,4 315,8,337,30,7 261,194,283,216,6 35,130,147,242,3 237,27,349,139,6 164,117,248,201,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000271.jpg 331,111,345,125,2 284,299,340,355,8 69,269,97,297,1 146,101,202,157,0 5,13,61,69,4 336,192,378,234,8 256,154,298,196,9 138,251,222,335,0 46,142,158,254,2 270,46,382,158,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000272.jpg 135,364,157,386,1 235,136,291,192,9 198,352,226,380,4 286,72,314,100,7 327,153,355,181,7 297,152,325,180,1 89,23,173,107,8 314,47,398,131,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000273.jpg 140,225,154,239,6 26,216,110,300,2 1,10,85,94,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000274.jpg 110,366,124,380,6 193,248,221,276,3 157,359,213,415,8 138,260,194,316,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000275.jpg 281,153,309,181,5 207,286,235,314,7 351,3,393,45,3 183,10,239,66,8 6,313,34,341,3 124,287,208,371,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000276.jpg 129,298,151,320,0 346,307,402,363,6 12,227,68,283,1 313,202,369,258,0 72,60,128,116,3 278,54,334,110,3 288,295,330,337,0 141,234,253,346,6 149,51,233,135,9 20,299,132,411,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000277.jpg 189,67,231,109,4 335,172,391,228,1 45,137,73,165,3 302,309,386,393,6 90,227,174,311,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000278.jpg 214,54,228,68,2 5,285,19,299,7 391,263,405,277,2 83,191,139,247,5 251,85,363,197,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000279.jpg 216,20,230,34,3 72,87,94,109,2 347,274,389,316,5 299,291,327,319,1 284,212,312,240,0 213,207,241,235,4 248,151,276,179,1 107,293,163,349,1 213,29,325,141,0 157,227,269,339,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000280.jpg 194,234,208,248,1 259,225,273,239,3 31,127,87,183,7 287,120,371,204,1 240,10,324,94,2 215,220,327,332,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000281.jpg 259,290,281,312,1 203,93,245,135,1 31,274,87,330,0 11,105,123,217,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000282.jpg 52,113,74,135,2 203,74,259,130,3 116,299,158,341,1 295,264,337,306,7 57,198,141,282,1 268,40,380,152,1 144,131,256,243,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000283.jpg 36,31,64,59,4 71,229,113,271,9 206,184,234,212,1 15,330,71,386,8 105,180,133,208,1 300,312,342,354,6 49,92,133,176,4 282,188,394,300,5 317,59,401,143,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000284.jpg 221,101,249,129,7 88,46,130,88,8 284,15,396,127,1 107,207,219,319,9 243,288,355,400,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000285.jpg 184,106,240,162,4 236,311,320,395,7 271,88,355,172,5 37,237,149,349,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000286.jpg 149,93,163,107,6 76,63,90,77,4 352,126,408,182,9 6,99,48,141,9 286,119,328,161,0 168,282,196,310,7 289,56,345,112,4 201,119,243,161,0 50,214,134,298,0 316,291,400,375,9 45,73,129,157,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000287.jpg 204,42,260,98,5 268,242,310,284,7 142,113,198,169,7 11,178,123,290,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000288.jpg 221,191,263,233,7 153,148,209,204,2 286,231,328,273,3 273,124,329,180,9 216,93,258,135,5 53,3,165,115,7 40,124,152,236,5 50,241,134,325,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000289.jpg 24,167,38,181,4 291,303,333,345,5 59,284,101,326,6 28,336,56,364,4 209,170,265,226,8 160,230,202,272,9 100,105,184,189,7 304,166,388,250,0 181,317,265,401,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000290.jpg 313,11,327,25,3 93,228,115,250,6 339,324,361,346,4 372,299,414,341,2 145,203,173,231,7 195,136,251,192,3 267,117,379,229,3 137,229,249,341,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000291.jpg 39,230,53,244,4 392,216,406,230,5 347,249,389,291,5 286,114,328,156,3 104,239,132,267,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000292.jpg 20,266,62,308,9 267,310,323,366,3 209,306,251,348,0 92,114,120,142,2 104,8,160,64,2 220,206,262,248,0 95,286,179,370,7 276,111,360,195,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000293.jpg 1,98,23,120,9 265,343,287,365,2 83,260,139,316,2 111,109,167,165,0 100,190,128,218,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000294.jpg 1,267,23,289,1 64,208,86,230,7 314,79,370,135,1 300,198,412,310,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000295.jpg 232,321,246,335,4 145,125,201,181,5 212,171,268,227,6 324,48,380,104,4 116,180,144,208,9 18,182,102,266,6 243,74,327,158,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000296.jpg 108,154,122,168,7 397,36,411,50,9 266,324,308,366,7 90,68,146,124,4 102,211,186,295,9 202,216,314,328,0 294,29,406,141,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000297.jpg 128,346,170,388,0 63,284,105,326,1 0,181,28,209,6 176,245,218,287,8 305,304,333,332,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000298.jpg 63,321,85,343,1 77,223,99,245,3 101,107,157,163,6 319,75,375,131,5 147,362,175,390,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000299.jpg 22,132,44,154,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000300.jpg 95,300,151,356,9 275,118,317,160,1 41,276,97,332,1 80,357,136,413,3 341,349,397,405,4 31,145,73,187,8 84,116,168,200,5 171,14,255,98,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000301.jpg 306,10,320,24,0 238,391,252,405,2 277,342,319,384,6 136,63,192,119,2 332,247,374,289,2 372,203,414,245,5 296,157,324,185,5 317,190,373,246,6 189,161,301,273,8 13,90,125,202,7 151,276,263,388,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000302.jpg 50,24,72,46,1 346,289,388,331,1 151,315,235,399,5 251,195,335,279,2 58,154,170,266,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000303.jpg 155,17,169,31,0 37,189,59,211,1 140,251,154,265,4 57,280,85,308,6 11,145,39,173,7 223,67,335,179,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000304.jpg 9,353,23,367,0 266,157,294,185,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000305.jpg 99,32,141,74,6 242,115,298,171,9 309,323,365,379,8 84,174,168,258,7 97,281,209,393,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000306.jpg 105,369,127,391,4 106,229,120,243,0 149,257,177,285,4 85,58,127,100,4 220,301,276,357,2 119,322,161,364,1 208,149,264,205,2 298,167,410,279,8 303,80,387,164,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000307.jpg 237,245,259,267,9 79,40,101,62,9 16,251,58,293,0 130,372,158,400,1 329,144,385,200,6 209,12,265,68,5 177,317,233,373,3 62,145,118,201,1 212,82,296,166,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000308.jpg 270,156,292,178,5 283,298,395,410,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000309.jpg 310,361,332,383,9 107,68,121,82,0 263,279,319,335,8 16,282,58,324,3 199,218,241,260,8 208,31,264,87,5 27,206,69,248,5 358,357,386,385,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000310.jpg 187,130,201,144,3 77,116,189,228,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000311.jpg 154,43,176,65,9 119,349,133,363,1 347,364,369,386,9 351,209,407,265,3 73,317,115,359,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000312.jpg 48,51,76,79,6 188,254,244,310,1 10,112,122,224,1 283,34,395,146,4 248,272,360,384,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000313.jpg 303,309,325,331,3 351,97,393,139,0 8,211,36,239,0 249,348,305,404,9 291,80,347,136,6 79,167,121,209,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000314.jpg 68,99,82,113,5 40,178,82,220,8 17,245,45,273,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000315.jpg 246,131,268,153,0 316,126,372,182,0 232,318,260,346,6 263,267,319,323,2 312,22,368,78,0 48,52,160,164,6 138,161,222,245,8 197,14,309,126,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000316.jpg 20,308,34,322,6 278,50,300,72,3 217,343,273,399,1 238,294,266,322,1 90,152,146,208,9 103,67,145,109,6 268,233,352,317,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000317.jpg 309,145,331,167,5 167,226,189,248,0 328,214,350,236,3 288,204,330,246,7 59,222,101,264,9 42,263,84,305,4 197,202,239,244,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000318.jpg 242,94,256,108,9 74,210,102,238,6 133,328,189,384,9 217,3,329,115,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000319.jpg 273,116,295,138,4 94,254,206,366,1 160,90,244,174,3 271,296,383,408,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000320.jpg 72,36,86,50,4 336,136,358,158,2 178,102,200,124,7 94,53,122,81,4 265,200,307,242,3 217,48,329,160,0 31,249,115,333,8 121,288,205,372,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000321.jpg 56,205,70,219,1 241,6,283,48,2 303,165,345,207,6 370,13,398,41,3 344,79,400,135,3 39,141,95,197,8 141,193,225,277,2 152,274,264,386,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000322.jpg 114,113,128,127,3 280,215,294,229,0 324,258,338,272,7 280,138,336,194,7 87,149,129,191,5 20,62,48,90,6 14,139,70,195,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000323.jpg 68,187,152,271,0 27,75,111,159,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000324.jpg 307,155,321,169,3 319,39,341,61,2 113,184,135,206,7 34,76,90,132,5 126,373,168,415,3 235,200,291,256,3 166,146,194,174,0 33,187,117,271,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000325.jpg 387,260,415,288,5 6,271,62,327,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000326.jpg 312,387,340,415,0 366,290,394,318,3 315,17,343,45,3 247,241,303,297,3 174,354,230,410,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000327.jpg 97,77,119,99,8 175,324,189,338,4 3,236,59,292,0 280,105,308,133,4 169,110,225,166,1 11,67,39,95,5 234,317,290,373,6 343,110,399,166,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000328.jpg 121,1,143,23,9 115,219,137,241,4 220,278,234,292,1 238,215,294,271,8 287,88,343,144,7 40,203,82,245,6 378,22,406,50,9 78,263,162,347,8 180,112,264,196,4 168,293,252,377,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000329.jpg 138,378,160,400,2 45,18,157,130,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000330.jpg 194,249,208,263,4 163,313,185,335,0 78,228,100,250,6 257,337,285,365,0 62,15,174,127,3 268,198,380,310,3 208,59,320,171,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000331.jpg 114,318,136,340,4 267,81,281,95,0 26,289,40,303,9 311,287,353,329,8 269,168,311,210,7 263,373,305,415,4 42,233,98,289,8 12,113,124,225,9 133,14,217,98,3 176,331,260,415,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000332.jpg 150,30,192,72,7 305,77,333,105,4 32,150,88,206,9 368,161,396,189,6 65,63,121,119,6 272,183,356,267,8 103,192,215,304,4 16,293,100,377,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000333.jpg 286,58,308,80,8 55,177,77,199,3 273,99,301,127,6 255,233,339,317,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000334.jpg 162,69,176,83,2 349,1,363,15,7 285,161,307,183,8 70,106,112,148,5 239,363,267,391,6 153,151,181,179,3 194,20,250,76,4 39,22,81,64,6 209,225,293,309,8 51,165,163,277,8 326,175,410,259,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000335.jpg 375,11,389,25,3 65,203,79,217,8 202,221,244,263,3 87,153,115,181,5 364,213,392,241,8 224,45,266,87,8 249,258,333,342,3 20,6,132,118,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000336.jpg 46,251,88,293,8 330,94,386,150,9 340,2,396,58,7 27,308,55,336,4 304,156,388,240,4 117,110,201,194,8 151,3,263,115,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000337.jpg 180,31,194,45,0 337,173,365,201,8 343,115,399,171,8 296,143,324,171,9 2,316,30,344,4 175,295,287,407,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000338.jpg 80,58,94,72,2 189,269,203,283,6 242,136,298,192,7 125,231,167,273,9 385,26,413,54,4 175,154,203,182,0 0,95,56,151,9 385,314,413,342,2 326,50,410,134,2 274,277,386,389,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000339.jpg 108,95,122,109,5 244,317,266,339,4 146,210,160,224,0 213,272,255,314,4 190,384,218,412,0 129,235,157,263,5 190,123,218,151,0 268,212,296,240,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000340.jpg 236,151,250,165,9 77,302,119,344,1 55,83,83,111,9 230,292,272,334,6 117,68,159,110,6 307,269,349,311,7 12,108,124,220,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000341.jpg 286,315,342,371,1 55,35,111,91,1 183,119,295,231,6 30,244,142,356,7 73,88,157,172,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000342.jpg 18,318,40,340,5 214,264,236,286,3 88,197,110,219,1 311,292,367,348,0 61,215,145,299,8 172,137,256,221,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000343.jpg 259,147,273,161,8 309,3,331,25,8 240,243,296,299,1 140,167,196,223,7 306,311,390,395,9 17,57,101,141,2 126,239,210,323,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000344.jpg 373,359,395,381,0 19,346,41,368,0 30,219,58,247,8 370,232,398,260,3 74,204,116,246,3 148,87,190,129,1 268,254,352,338,7 290,157,374,241,7 283,19,395,131,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000345.jpg 367,175,395,203,0 349,21,391,63,4 163,29,205,71,1 36,48,92,104,7 0,314,84,398,9 126,273,238,385,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000346.jpg 249,163,271,185,9 269,292,291,314,2 109,328,123,342,1 12,102,68,158,0 223,188,251,216,2 279,14,321,56,7 113,147,169,203,0 329,252,371,294,9 293,78,405,190,3 59,202,143,286,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000347.jpg 192,372,206,386,8 149,193,171,215,6 225,133,309,217,7 319,53,403,137,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000348.jpg 324,109,346,131,2 319,45,333,59,8 268,316,282,330,6 6,224,62,280,0 65,158,121,214,0 130,250,242,362,3 287,161,399,273,2 139,60,251,172,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000349.jpg 20,382,42,404,3 242,334,298,390,3 73,233,129,289,3 61,369,89,397,3 174,7,230,63,9 135,216,191,272,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000350.jpg 76,104,118,146,1 291,120,319,148,1 183,81,211,109,4 45,135,73,163,7 236,44,264,72,1 183,171,267,255,0 279,198,363,282,4 317,118,401,202,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000351.jpg 142,90,164,112,4 189,256,231,298,6 82,87,138,143,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000352.jpg 312,258,326,272,2 263,37,277,51,7 355,96,377,118,9 288,24,344,80,1 208,243,264,299,1 248,354,304,410,9 116,19,144,47,0 345,43,387,85,4 176,122,288,234,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000353.jpg 36,167,50,181,1 131,228,145,242,1 125,65,167,107,0 198,282,240,324,6 49,86,105,142,1 89,297,173,381,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000354.jpg 57,299,113,355,4 271,119,299,147,7 133,322,175,364,4 95,20,151,76,6 222,326,278,382,1 186,45,228,87,6 176,239,260,323,7 54,165,166,277,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000355.jpg 338,76,394,132,8 149,218,205,274,5 289,222,345,278,6 135,355,191,411,0 203,302,245,344,0 115,47,227,159,7 246,2,330,86,9 10,97,94,181,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000356.jpg 36,40,58,62,0 87,278,115,306,9 232,349,260,377,7 384,115,412,143,8 238,29,294,85,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000357.jpg 179,175,207,203,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000358.jpg 259,194,273,208,4 126,96,154,124,2 339,83,395,139,3 143,205,199,261,6 180,56,236,112,5 178,279,234,335,2 286,151,398,263,8 46,218,130,302,7 273,268,385,380,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000359.jpg 199,47,213,61,4 333,292,347,306,1 72,165,94,187,3 189,246,231,288,2 40,186,68,214,6 304,4,360,60,8 242,86,354,198,8 35,36,147,148,4 62,238,146,322,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000360.jpg 280,386,294,400,4 357,109,371,123,2 199,117,241,159,7 38,15,66,43,6 187,345,243,401,8 96,155,208,267,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000361.jpg 127,174,211,258,4 146,38,258,150,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000362.jpg 217,258,259,300,1 219,314,261,356,1 80,263,136,319,6 117,94,159,136,2 176,48,260,132,4 74,323,158,407,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000363.jpg 223,207,237,221,1 5,108,19,122,0 195,55,279,139,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000364.jpg 226,44,240,58,8 300,345,322,367,9 199,126,221,148,7 143,157,199,213,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000365.jpg 94,273,108,287,1 238,194,252,208,2 285,247,327,289,6 222,302,264,344,2 66,149,94,177,0 75,291,117,333,3 267,54,323,110,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000366.jpg 190,240,212,262,0 44,330,100,386,6 331,329,373,371,8 245,256,287,298,4 32,233,60,261,7 248,349,290,391,6 69,39,125,95,5 273,54,385,166,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000367.jpg 92,162,106,176,4 192,368,220,396,8 232,25,288,81,3 8,29,36,57,4 2,167,58,223,6 181,242,237,298,4 129,163,185,219,2 50,228,134,312,6 239,195,351,307,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000368.jpg 96,305,152,361,2 280,54,336,110,9 221,5,249,33,2 81,94,193,206,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000369.jpg 381,25,395,39,1 88,222,110,244,5 262,172,276,186,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000370.jpg 337,174,351,188,2 14,339,36,361,4 334,219,348,233,7 69,112,125,168,7 102,359,130,387,4 168,113,252,197,1 292,263,404,375,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000371.jpg 376,153,398,175,1 191,25,213,47,9 338,46,360,68,2 186,194,270,278,2 270,233,354,317,6 78,63,190,175,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000372.jpg 349,196,377,224,2 28,247,84,303,7 20,125,62,167,6 205,60,317,172,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000373.jpg 328,185,384,241,2 314,324,370,380,9 2,92,58,148,1 92,46,148,102,4 97,100,139,142,3 255,41,367,153,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000374.jpg 266,19,288,41,1 240,193,254,207,4 167,137,181,151,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000375.jpg 84,196,98,210,8 312,192,340,220,5 204,170,316,282,9 258,92,342,176,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000376.jpg 135,94,149,108,5 30,351,44,365,6 277,301,389,413,6 288,164,372,248,2 154,191,238,275,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000377.jpg 314,11,328,25,4 247,365,261,379,2 181,214,209,242,2 141,150,183,192,3 254,13,282,41,7 173,41,229,97,5 18,138,130,250,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000378.jpg 156,47,170,61,6 8,241,30,263,5 326,78,348,100,3 271,319,327,375,3 13,114,55,156,4 142,104,184,146,0 219,129,331,241,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000379.jpg 119,211,161,253,4 269,69,353,153,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000380.jpg 388,22,410,44,2 351,39,373,61,8 64,113,86,135,3 144,112,172,140,7 99,216,127,244,2 298,118,410,230,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000381.jpg 65,237,87,259,2 224,239,238,253,9 13,225,55,267,1 117,132,173,188,1 231,28,273,70,6 282,11,338,67,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000382.jpg 97,330,119,352,6 167,264,209,306,9 0,179,84,263,2 70,7,182,119,2 249,202,333,286,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000383.jpg 222,116,236,130,1 71,388,85,402,2 266,54,322,110,8 61,273,89,301,2 373,329,401,357,7 253,192,309,248,5 88,193,116,221,4 70,10,112,52,4 132,291,244,403,3 121,106,233,218,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000384.jpg 291,40,313,62,8 51,9,79,37,1 270,264,382,376,6 22,280,134,392,9 227,135,311,219,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000385.jpg 55,7,69,21,3 263,63,285,85,6 128,266,150,288,7 140,101,196,157,1 69,251,111,293,0 329,75,385,131,0 147,254,203,310,9 125,155,167,197,2 203,77,231,105,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000386.jpg 384,267,406,289,3 134,92,156,114,4 87,272,143,328,9 37,60,93,116,1 202,153,258,209,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000387.jpg 219,385,241,407,9 276,21,332,77,7 145,274,201,330,4 125,204,181,260,5 14,140,56,182,5 65,74,121,130,5 210,106,266,162,2 142,0,254,112,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000388.jpg 228,277,256,305,6 149,344,177,372,0 85,188,113,216,7 280,68,322,110,9 367,91,409,133,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000389.jpg 163,92,185,114,5 90,371,112,393,6 221,83,249,111,8 114,236,156,278,6 325,11,381,67,3 270,355,326,411,9 302,95,330,123,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000390.jpg 126,174,148,196,6 156,348,212,404,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000391.jpg 172,343,194,365,4 27,222,49,244,9 56,181,70,195,3 195,58,251,114,6 203,307,245,349,9 182,178,238,234,1 304,174,388,258,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000392.jpg 258,247,272,261,8 322,114,364,156,2 21,276,63,318,4 75,345,103,373,3 118,40,174,96,7 277,256,389,368,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000393.jpg 331,156,373,198,5 180,107,222,149,8 109,95,165,151,4 55,246,167,358,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000394.jpg 103,318,125,340,1 275,7,289,21,8 329,228,385,284,8 197,295,253,351,0 102,2,186,86,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000395.jpg 96,220,118,242,2 351,335,407,391,5 144,150,200,206,9 69,42,153,126,7 123,213,235,325,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000396.jpg 317,153,331,167,0 244,287,258,301,6 28,240,42,254,8 226,17,268,59,2 178,265,234,321,2 111,168,153,210,2 183,328,211,356,5 45,293,87,335,7 97,300,181,384,3 294,45,406,157,7 126,61,210,145,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000397.jpg 359,146,381,168,6 31,210,45,224,4 50,135,64,149,0 262,323,290,351,4 115,382,143,410,5 127,143,169,185,5 152,231,194,273,6 340,218,396,274,4 14,180,126,292,1 114,3,198,87,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000398.jpg 293,261,307,275,9 244,269,258,283,1 127,253,183,309,4 280,150,336,206,6 74,323,130,379,8 68,96,152,180,0 299,27,383,111,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000399.jpg 197,106,253,162,9 111,201,139,229,3 263,321,319,377,2 21,111,77,167,8 315,136,371,192,4 92,280,134,322,5 173,198,285,310,3 288,209,400,321,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000400.jpg 13,250,35,272,1 386,388,408,410,9 215,50,237,72,1 51,7,93,49,7 372,310,414,352,1 63,136,119,192,3 275,44,331,100,2 15,179,57,221,3 13,322,41,350,4 303,141,387,225,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000401.jpg 162,337,176,351,6 12,88,26,102,8 244,202,272,230,7 0,154,28,182,4 130,213,172,255,6 282,20,324,62,0 86,58,198,170,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000402.jpg 31,184,45,198,0 124,367,152,395,1 236,264,292,320,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000403.jpg 208,245,230,267,1 282,294,296,308,2 348,328,390,370,7 259,30,315,86,8 121,292,163,334,8 207,70,263,126,0 127,376,155,404,4 91,59,203,171,4 281,157,393,269,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000404.jpg 360,280,374,294,3 67,350,109,392,6 220,56,276,112,8 42,193,98,249,3 16,27,44,55,5 219,277,261,319,8 137,44,179,86,6 97,242,181,326,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000405.jpg 47,351,75,379,7 275,309,331,365,2 165,105,193,133,7 111,203,195,287,5 13,109,97,193,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000406.jpg 379,105,401,127,3 391,153,405,167,0 156,269,184,297,7 285,353,341,409,2 56,174,112,230,4 319,103,361,145,4 206,35,262,91,0 340,277,396,333,1 5,26,117,138,1 285,173,369,257,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000407.jpg 250,5,272,27,9 86,63,108,85,2 266,89,280,103,4 165,229,207,271,2 2,369,30,397,0 234,314,318,398,9 281,192,365,276,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000408.jpg 249,339,263,353,2 58,134,100,176,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000409.jpg 41,308,63,330,4 200,76,228,104,6 134,177,162,205,6 20,255,48,283,3 85,254,113,282,8 114,14,156,56,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000410.jpg 9,212,23,226,3 59,77,115,133,6 222,349,264,391,0 97,222,139,264,9 247,193,275,221,1 292,51,376,135,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000411.jpg 44,40,58,54,1 75,176,103,204,7 130,102,172,144,2 303,243,359,299,4 28,229,140,341,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000412.jpg 214,246,236,268,5 328,166,412,250,3 295,21,379,105,3 7,78,119,190,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000413.jpg 21,353,77,409,2 207,44,291,128,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000414.jpg 156,335,178,357,3 88,116,144,172,6 289,161,401,273,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000415.jpg 166,242,222,298,9 208,65,236,93,4 105,120,161,176,1 259,117,371,229,1 285,318,369,402,7 129,295,213,379,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000416.jpg 236,285,292,341,2 139,24,195,80,1 166,102,222,158,8 36,189,78,231,9 224,161,266,203,7 131,190,159,218,9 265,105,349,189,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000417.jpg 393,298,407,312,9 308,371,330,393,7 147,58,175,86,8 221,373,249,401,8 158,239,200,281,4 107,312,135,340,1 40,330,68,358,0 56,10,140,94,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000418.jpg 208,65,230,87,8 150,99,206,155,9 59,165,115,221,2 116,306,172,362,4 136,28,164,56,0 113,183,197,267,8 321,108,405,192,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000419.jpg 204,350,246,392,9 18,8,74,64,0 136,259,192,315,6 266,241,308,283,6 22,74,78,130,1 132,199,160,227,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000420.jpg 151,296,165,310,1 14,135,56,177,7 110,333,152,375,4 161,86,217,142,4 114,152,156,194,6 165,189,221,245,2 240,133,352,245,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000421.jpg 123,125,137,139,0 192,136,206,150,6 303,295,359,351,3 371,167,399,195,5 67,329,123,385,2 98,201,140,243,7 262,20,346,104,5 78,11,190,123,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000422.jpg 175,161,189,175,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000423.jpg 192,289,206,303,0 146,315,188,357,9 7,282,49,324,3 83,147,139,203,1 43,333,99,389,4 186,303,298,415,7 298,168,382,252,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000424.jpg 76,324,90,338,9 96,282,118,304,0 185,62,241,118,8 11,199,67,255,6 313,125,369,181,0 226,125,282,181,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000425.jpg 154,384,176,406,9 232,242,260,270,1 69,136,125,192,4 19,269,61,311,7 156,267,198,309,9 4,24,46,66,4 98,30,210,142,0 301,163,385,247,3 224,60,336,172,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000426.jpg 337,250,359,272,9 108,17,136,45,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000427.jpg 42,354,56,368,7 356,41,378,63,2 93,239,107,253,3 277,149,319,191,8 278,322,306,350,2 321,103,377,159,3 83,73,125,115,3 131,328,159,356,5 125,12,237,124,6 51,192,163,304,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000428.jpg 111,295,153,337,0 103,13,159,69,8 173,139,215,181,6 237,145,279,187,0 169,367,197,395,7 163,196,275,308,4 301,30,413,142,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000429.jpg 178,22,234,78,7 362,135,390,163,1 53,151,109,207,1 280,88,308,116,1 108,40,150,82,6 318,167,402,251,4 173,179,285,291,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000430.jpg 109,297,131,319,1 366,64,388,86,6 166,175,188,197,9 7,318,49,360,7 96,113,138,155,4 256,210,312,266,1 98,261,126,289,0 158,246,242,330,6 177,56,261,140,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000431.jpg 223,154,245,176,6 112,98,140,126,1 169,353,211,395,6 387,367,415,395,5 296,373,338,415,3 28,44,56,72,0 140,147,224,231,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000432.jpg 37,58,59,80,5 236,132,250,146,7 111,202,153,244,0 59,252,115,308,6 231,255,273,297,7 286,32,328,74,6 358,372,400,414,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000433.jpg 247,232,261,246,6 183,363,205,385,4 320,263,348,291,9 154,35,196,77,7 107,93,163,149,2 20,253,62,295,0 234,98,318,182,6 62,273,174,385,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000434.jpg 72,154,94,176,0 299,137,321,159,1 201,327,257,383,4 329,50,385,106,5 148,258,204,314,9 74,65,102,93,7 145,12,201,68,5 264,236,376,348,4 15,288,127,400,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000435.jpg 346,69,402,125,0 86,265,142,321,5 352,130,408,186,3 362,235,390,263,7 90,7,146,63,3 257,237,299,279,2 130,163,242,275,2 225,27,337,139,4 5,46,89,130,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000436.jpg 236,7,348,119,5 322,152,406,236,6 205,312,289,396,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000437.jpg 231,10,245,24,1 217,95,239,117,9 120,354,176,410,9 261,7,317,63,0 26,122,82,178,7 101,227,143,269,0 235,172,277,214,0 100,100,128,128,7 195,291,307,403,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000438.jpg 393,285,407,299,1 366,283,388,305,8 271,31,293,53,3 319,305,375,361,4 82,269,110,297,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000439.jpg 275,81,297,103,4 211,164,253,206,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000440.jpg 146,380,160,394,2 183,4,205,26,3 133,45,155,67,2 341,264,397,320,2 44,175,86,217,8 200,92,228,120,7 176,45,204,73,5 70,271,182,383,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000441.jpg 121,247,143,269,0 90,96,174,180,2 235,275,347,387,8 14,279,126,391,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000442.jpg 304,219,326,241,0 249,357,277,385,5 122,280,164,322,0 10,145,122,257,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000443.jpg 160,42,174,56,4 215,95,243,123,1 111,192,139,220,2 338,248,394,304,0 52,272,94,314,5 270,367,312,409,3 183,229,267,313,2 84,43,196,155,5 272,55,356,139,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000444.jpg 145,123,167,145,7 253,284,275,306,9 262,197,284,219,3 136,284,164,312,5 329,335,371,377,9 264,17,306,59,0 161,65,273,177,6 16,30,100,114,3 46,148,158,260,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000445.jpg 255,34,277,56,4 226,79,248,101,4 248,206,270,228,6 288,157,330,199,9 315,55,371,111,7 334,138,362,166,0 347,293,375,321,1 19,362,61,404,6 151,167,207,223,9 254,307,338,391,3 37,220,149,332,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000446.jpg 197,26,239,68,5 366,272,394,300,3 327,296,383,352,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000447.jpg 316,12,338,34,5 393,293,415,315,1 79,98,107,126,1 132,336,188,392,9 257,125,299,167,8 220,34,304,118,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000448.jpg 336,212,350,226,8 209,191,231,213,1 335,332,391,388,5 40,190,152,302,4 273,31,385,143,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000449.jpg 51,104,65,118,0 90,308,112,330,4 109,220,131,242,1 315,131,343,159,1 167,159,195,187,4 256,250,312,306,2 251,348,293,390,7 57,12,141,96,9 243,159,327,243,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000450.jpg 38,248,52,262,3 173,99,215,141,5 171,56,213,98,7 125,291,153,319,9 360,298,388,326,1 213,79,241,107,8 55,355,111,411,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000451.jpg 15,96,37,118,5 254,209,268,223,4 27,132,139,244,1 200,92,312,204,9 227,278,311,362,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000452.jpg 128,185,150,207,3 347,113,369,135,4 119,353,141,375,4 199,154,283,238,6 6,133,118,245,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000453.jpg 61,329,75,343,5 16,349,38,371,2 378,90,400,112,6 72,280,128,336,2 266,226,294,254,7 172,188,228,244,3 43,353,71,381,7 139,267,181,309,4 282,292,338,348,1 60,22,144,106,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000454.jpg 234,63,256,85,1 371,107,385,121,4 84,256,106,278,0 71,101,113,143,3 132,349,174,391,4 97,297,139,339,2 24,76,52,104,1 19,251,75,307,1 141,36,225,120,3 316,198,400,282,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000455.jpg 298,209,312,223,6 118,5,174,61,3 266,136,322,192,2 247,308,289,350,5 22,212,50,240,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000456.jpg 258,187,272,201,3 27,376,41,390,9 118,278,174,334,5 271,352,327,408,0 28,293,70,335,2 170,15,198,43,6 197,376,225,404,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000457.jpg 267,2,289,24,0 198,243,240,285,3 295,230,351,286,2 3,33,45,75,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000458.jpg 307,23,321,37,1 59,177,81,199,8 360,220,382,242,8 215,325,257,367,8 109,121,193,205,7 127,245,211,329,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000459.jpg 376,294,390,308,1 377,159,405,187,6 57,194,113,250,9 97,105,153,161,1 81,282,193,394,8 224,276,308,360,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000460.jpg 201,256,223,278,8 320,50,334,64,8 78,384,100,406,8 63,49,105,91,1 21,245,49,273,6 241,122,283,164,9 230,46,258,74,8 123,115,165,157,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000461.jpg 115,96,137,118,4 24,392,38,406,2 254,276,268,290,6 37,147,79,189,5 225,7,267,49,2 302,37,358,93,2 216,334,244,362,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000462.jpg 276,43,290,57,5 273,9,287,23,9 106,134,148,176,0 305,62,347,104,9 243,41,271,69,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000463.jpg 283,227,311,255,1 156,233,198,275,9 73,105,115,147,4 344,306,400,362,6 140,4,196,60,4 285,329,313,357,2 274,136,358,220,6 201,21,313,133,8 149,272,233,356,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000464.jpg 166,285,188,307,8 159,196,181,218,0 213,238,235,260,2 362,86,390,114,5 99,8,155,64,4 58,380,86,408,0 21,192,77,248,4 141,147,183,189,4 240,337,282,379,4 199,39,311,151,8 225,176,337,288,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000465.jpg 102,151,124,173,7 184,310,212,338,3 113,186,141,214,2 157,71,213,127,3 322,244,364,286,3 195,191,307,303,5 276,82,360,166,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000466.jpg 306,39,320,53,1 344,68,358,82,2 334,230,348,244,9 290,201,332,243,4 328,123,356,151,2 23,66,51,94,3 56,130,112,186,0 126,107,154,135,9 6,193,34,221,4 65,227,177,339,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000467.jpg 108,83,122,97,0 365,83,379,97,5 41,293,63,315,8 109,123,193,207,3 176,225,288,337,3 56,290,168,402,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000468.jpg 29,0,85,56,4 374,336,402,364,2 286,4,314,32,0 160,117,272,229,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000469.jpg 138,53,160,75,2 232,15,254,37,9 71,65,85,79,6 321,128,377,184,1 101,197,129,225,7 78,251,134,307,7 176,154,288,266,4 29,35,141,147,5 300,257,412,369,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000470.jpg 135,133,191,189,8 135,6,163,34,4 238,179,294,235,9 24,187,108,271,1 300,175,412,287,6 160,268,272,380,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000471.jpg 142,202,164,224,0 15,295,57,337,4 160,299,202,341,8 246,4,358,116,5 191,169,275,253,6 71,315,155,399,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000472.jpg 384,5,412,33,2 207,240,263,296,7 179,215,207,243,3 33,73,145,185,7 156,291,268,403,7 285,192,369,276,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000473.jpg 189,274,203,288,2 224,310,238,324,4 273,147,329,203,3 160,202,188,230,1 360,355,388,383,9 357,272,399,314,0 26,86,138,198,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000474.jpg 351,221,373,243,2 187,140,209,162,8 340,71,382,113,0 77,15,105,43,3 70,149,182,261,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000475.jpg 51,76,73,98,9 101,69,129,97,3 149,53,205,109,1 331,289,359,317,5 2,235,58,291,3 95,238,151,294,3 272,266,328,322,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000476.jpg 254,69,268,83,6 366,320,388,342,2 37,71,79,113,6 272,54,300,82,1 259,252,315,308,3 350,180,378,208,9 366,204,408,246,2 114,109,198,193,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000477.jpg 255,148,269,162,7 176,73,190,87,7 26,166,68,208,8 66,175,150,259,4 157,226,269,338,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000478.jpg 17,225,45,253,2 145,160,257,272,5 274,45,386,157,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000479.jpg 305,289,319,303,7 48,178,70,200,5 103,203,131,231,4 154,104,182,132,9 351,205,379,233,2 332,115,360,143,5 143,39,171,67,2 163,212,247,296,2 209,83,321,195,2 263,223,375,335,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000480.jpg 130,114,152,136,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000481.jpg 206,13,290,97,0 321,175,405,259,3 132,244,244,356,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000482.jpg 319,300,375,356,6 30,247,86,303,7 25,36,81,92,2 201,197,243,239,1 202,110,286,194,6 263,9,375,121,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000483.jpg 290,221,304,235,9 340,360,368,388,1 241,270,297,326,7 235,100,291,156,9 200,36,228,64,3 93,64,121,92,3 331,101,387,157,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000484.jpg 268,267,282,281,3 274,69,288,83,6 226,344,240,358,0 78,75,134,131,8 84,12,112,40,9 322,204,406,288,5 31,322,115,406,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000485.jpg 351,305,373,327,7 359,57,381,79,7 328,24,350,46,9 86,42,128,84,2 219,306,275,362,4 24,173,66,215,7 217,126,301,210,3 85,223,197,335,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000486.jpg 135,74,149,88,6 256,11,298,53,1 289,191,317,219,6 127,207,155,235,2 330,251,414,335,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000487.jpg 268,27,290,49,8 1,251,43,293,2 365,230,407,272,1 111,314,167,370,5 351,376,379,404,0 212,302,254,344,8 13,60,97,144,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000488.jpg 299,385,321,407,9 298,129,312,143,0 161,286,203,328,7 252,58,294,100,6 311,150,353,192,8 58,88,170,200,0 298,238,382,322,8 174,152,286,264,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000489.jpg 27,109,49,131,3 98,387,112,401,2 300,18,322,40,9 246,243,302,299,1 233,58,261,86,6 357,243,385,271,7 90,43,132,85,4 325,33,409,117,8 87,255,199,367,0 277,113,389,225,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000490.jpg 384,115,406,137,3 342,349,356,363,1 16,284,38,306,6 296,177,408,289,4 159,293,243,377,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000491.jpg 38,95,66,123,2 35,289,147,401,8 14,119,126,231,7 251,97,335,181,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000492.jpg 100,131,114,145,1 127,380,149,402,3 95,345,117,367,3 239,288,295,344,1 141,42,169,70,3 171,126,283,238,8 57,207,169,319,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000493.jpg 372,121,386,135,3 235,292,249,306,6 79,185,163,269,5 282,290,366,374,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000494.jpg 221,353,243,375,0 56,117,70,131,6 167,43,223,99,2 92,377,120,405,2 264,77,306,119,6 195,131,223,159,5 245,189,357,301,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000495.jpg 285,343,307,365,6 28,43,50,65,2 360,262,382,284,8 269,55,311,97,8 305,325,389,409,4 57,252,141,336,6 278,106,362,190,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000496.jpg 358,248,372,262,0 390,236,412,258,4 379,281,393,295,9 297,209,339,251,9 192,17,234,59,6 263,272,347,356,7 10,110,94,194,8 153,89,237,173,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000497.jpg 49,73,63,87,7 343,320,399,376,4 87,103,115,131,1 121,263,163,305,6 42,175,98,231,1 9,285,93,369,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000498.jpg 261,77,345,161,6 232,324,316,408,5 26,9,110,93,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000499.jpg 105,51,133,79,7 114,246,170,302,6 97,166,153,222,9 43,119,85,161,3 280,178,308,206,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000500.jpg 13,248,27,262,7 17,380,39,402,6 22,129,44,151,0 135,64,191,120,8 167,139,279,251,5 279,195,391,307,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000501.jpg 251,13,273,35,5 71,239,113,281,2 51,13,163,125,9 11,154,95,238,8 229,46,341,158,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000502.jpg 107,95,135,123,5 153,112,181,140,4 197,323,281,407,5 4,244,88,328,7 179,180,263,264,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000503.jpg 377,200,391,214,7 386,54,400,68,6 162,196,204,238,2 29,85,85,141,0 92,24,120,52,7 303,114,387,198,1 201,229,285,313,7 220,314,304,398,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000504.jpg 57,53,79,75,2 128,66,142,80,1 194,92,250,148,5 271,386,299,414,4 212,219,296,303,0 297,92,409,204,5 20,300,132,412,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000505.jpg 136,101,158,123,4 369,350,391,372,1 150,378,178,406,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000506.jpg 84,349,106,371,6 381,137,403,159,1 63,68,91,96,0 204,97,246,139,3 117,170,173,226,8 332,159,374,201,4 33,151,75,193,4 58,197,114,253,0 124,325,208,409,3 217,134,329,246,1 249,264,361,376,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000507.jpg 204,184,218,198,8 80,350,136,406,3 114,31,142,59,0 270,282,382,394,1 108,72,192,156,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000508.jpg 277,120,299,142,7 219,305,241,327,4 330,267,344,281,0 207,356,263,412,5 83,378,111,406,2 345,344,373,372,2 83,57,125,99,4 138,171,180,213,7 275,177,387,289,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000509.jpg 77,334,99,356,2 116,253,172,309,6 43,200,99,256,1 218,296,260,338,9 265,328,321,384,4 241,2,283,44,7 105,127,147,169,9 62,42,146,126,4 298,92,410,204,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000510.jpg 352,101,374,123,3 263,10,319,66,8 331,135,359,163,6 200,244,284,328,4 118,138,230,250,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000511.jpg 185,198,207,220,6 346,275,360,289,1 114,222,156,264,5 126,28,182,84,1 232,189,288,245,1 138,281,166,309,2 355,144,411,200,4 86,30,114,58,8 209,67,321,179,9 209,327,293,411,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000512.jpg 77,6,119,48,6 321,316,349,344,3 52,62,108,118,4 137,16,179,58,6 212,192,296,276,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000513.jpg 381,50,395,64,5 227,313,249,335,2 170,296,192,318,4 226,19,282,75,8 320,191,376,247,9 271,318,313,360,9 102,356,158,412,1 74,214,158,298,0 70,46,154,130,9 210,159,322,271,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000514.jpg 298,65,320,87,1 286,87,342,143,8 191,190,247,246,8 250,78,278,106,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000515.jpg 200,247,222,269,9 141,34,253,146,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000516.jpg 37,366,51,380,5 341,301,363,323,8 92,65,204,177,3 101,294,185,378,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000517.jpg 17,137,45,165,6 269,69,297,97,5 117,330,145,358,4 34,284,90,340,8 329,163,413,247,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000518.jpg 52,125,66,139,9 262,176,276,190,2 234,358,248,372,4 172,10,256,94,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000519.jpg 305,120,319,134,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000520.jpg 106,13,120,27,6 157,354,185,382,9 138,185,194,241,6 202,302,286,386,0 267,50,379,162,8 143,44,227,128,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000521.jpg 212,319,234,341,9 191,183,213,205,5 57,121,141,205,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000522.jpg 29,238,51,260,1 87,19,171,103,9 45,101,129,185,3 204,194,316,306,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000523.jpg 3,259,45,301,3 316,239,358,281,7 322,115,406,199,3 93,149,177,233,4 209,265,293,349,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000524.jpg 105,189,127,211,3 311,148,339,176,7 325,200,381,256,4 268,183,296,211,5 108,144,136,172,0 263,362,305,404,0 129,51,185,107,2 81,217,193,329,0 196,269,280,353,0 272,18,384,130,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000525.jpg 372,382,386,396,1 370,257,392,279,4 54,189,68,203,9 359,168,387,196,5 303,37,415,149,9 116,164,200,248,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000526.jpg 366,273,394,301,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000527.jpg 290,210,332,252,3 332,16,360,44,7 24,315,66,357,5 207,39,249,81,3 20,34,62,76,1 106,363,134,391,3 91,53,203,165,5 56,225,168,337,4 255,276,339,360,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000528.jpg 36,243,78,285,7 73,341,115,383,1 278,248,306,276,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000529.jpg 52,206,74,228,2 130,228,158,256,3 195,303,223,331,3 120,94,176,150,8 255,6,367,118,8 183,198,295,310,0 42,299,126,383,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000530.jpg 10,284,24,298,0 43,223,65,245,4 103,250,117,264,7 207,242,263,298,1 231,16,259,44,7 34,137,118,221,2 67,262,151,346,1 296,270,408,382,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000531.jpg 160,337,174,351,2 281,272,337,328,9 71,268,99,296,4 278,181,320,223,5 29,201,71,243,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000532.jpg 20,93,62,135,1 118,303,160,345,4 142,29,198,85,4 42,274,98,330,9 331,234,373,276,3 355,350,383,378,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000533.jpg 30,229,44,243,4 212,289,226,303,2 244,77,266,99,0 204,139,232,167,0 115,206,157,248,7 124,133,152,161,6 210,327,266,383,7 148,256,190,298,9 272,146,300,174,8 263,165,375,277,6 27,7,139,119,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000534.jpg 249,181,263,195,8 285,41,313,69,4 297,125,325,153,0 186,245,242,301,2 102,156,144,198,5 254,158,338,242,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000535.jpg 345,183,387,225,7 190,4,232,46,2 243,77,285,119,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000536.jpg 299,153,313,167,0 364,188,386,210,7 181,211,293,323,6 170,81,282,193,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000537.jpg 230,107,244,121,1 269,260,291,282,6 8,47,36,75,2 291,378,319,406,7 69,230,111,272,6 130,383,158,411,3 71,5,183,117,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000538.jpg 127,82,149,104,5 30,342,58,370,3 36,184,148,296,8 190,114,302,226,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000539.jpg 103,180,125,202,2 208,266,230,288,3 135,145,163,173,7 151,254,179,282,2 60,280,144,364,8 235,227,347,339,7 323,121,407,205,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000540.jpg 104,171,118,185,7 299,26,313,40,4 270,169,298,197,6 152,196,208,252,6 201,122,243,164,2 234,239,276,281,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000541.jpg 70,339,98,367,6 188,231,230,273,7 43,332,71,360,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000542.jpg 136,286,192,342,8 373,360,401,388,6 45,195,129,279,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000543.jpg 101,26,143,68,3 106,150,148,192,0 25,22,67,64,9 208,298,236,326,2 272,77,328,133,8 124,211,166,253,0 308,173,392,257,8 171,184,255,268,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000544.jpg 392,218,414,240,0 241,363,255,377,1 34,277,90,333,0 149,190,205,246,9 303,175,359,231,4 241,271,283,313,7 27,138,111,222,8 125,57,237,169,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000545.jpg 282,343,296,357,5 228,49,284,105,4 0,292,56,348,2 66,0,122,56,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000546.jpg 5,322,27,344,0 34,32,56,54,4 63,284,147,368,4 99,34,211,146,3 92,143,176,227,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000547.jpg 320,193,334,207,2 396,262,410,276,4 70,131,98,159,3 351,218,393,260,2 202,287,244,329,1 54,16,110,72,8 289,352,345,408,6 108,7,220,119,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000548.jpg 234,205,248,219,1 335,332,349,346,5 349,127,363,141,0 181,362,209,390,1 375,279,403,307,8 332,52,360,80,3 123,248,235,360,3 47,147,159,259,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000549.jpg 159,304,215,360,9 125,8,181,64,3 261,163,373,275,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000550.jpg 98,379,120,401,0 191,320,205,334,0 317,13,373,69,7 89,205,145,261,5 243,230,299,286,9 50,345,78,373,3 168,28,280,140,9 1,18,113,130,0 300,232,384,316,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000551.jpg 147,48,169,70,3 181,69,203,91,2 233,20,247,34,4 258,42,342,126,4 264,255,376,367,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000552.jpg 59,222,73,236,4 110,74,166,130,2 325,134,381,190,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000553.jpg 143,188,157,202,1 159,329,173,343,2 192,69,234,111,1 297,236,353,292,4 306,346,348,388,7 2,139,30,167,2 123,98,165,140,4 93,5,149,61,4 172,302,256,386,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000554.jpg 372,308,394,330,3 279,306,293,320,2 215,289,271,345,1 376,24,404,52,1 23,315,65,357,4 363,222,405,264,7 0,19,28,47,8 196,198,280,282,8 130,17,242,129,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000555.jpg 210,257,252,299,3 225,309,281,365,2 39,247,67,275,9 24,343,52,371,3 330,347,372,389,4 70,236,154,320,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000556.jpg 161,2,183,24,4 319,70,333,84,6 243,36,299,92,5 41,170,83,212,4 352,194,394,236,0 211,190,253,232,3 140,66,196,122,6 275,233,317,275,8 194,278,306,390,5 23,212,135,324,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000557.jpg 137,40,151,54,9 160,343,216,399,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000558.jpg 79,293,93,307,5 61,86,83,108,2 250,278,292,320,4 344,58,386,100,0 146,213,188,255,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000559.jpg 292,306,314,328,1 376,41,404,69,8 214,109,242,137,4 330,304,358,332,9 71,132,113,174,0 62,53,118,109,6 197,170,281,254,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000560.jpg 357,52,371,66,4 338,211,394,267,3 155,6,211,62,9 199,64,241,106,3 60,18,116,74,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000561.jpg 379,174,393,188,2 229,49,285,105,3 251,282,363,394,0 127,132,239,244,9 2,85,114,197,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000562.jpg 54,313,110,369,8 313,2,355,44,8 280,222,322,264,5 267,185,295,213,1 305,155,333,183,8 120,74,232,186,9 311,74,395,158,8 64,200,176,312,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000563.jpg 211,264,323,376,7 260,0,372,112,6 23,168,107,252,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000564.jpg 374,187,396,209,1 55,102,77,124,4 276,344,318,386,6 38,325,94,381,0 142,298,254,410,4 253,221,365,333,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000565.jpg 68,197,90,219,7 368,22,396,50,5 265,173,307,215,7 50,15,78,43,1 166,16,222,72,9 117,141,159,183,8 70,211,182,323,4 270,208,382,320,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000566.jpg 107,394,121,408,2 66,131,94,159,6 354,53,410,109,9 175,225,203,253,7 46,34,88,76,6 0,44,42,86,5 20,137,62,179,7 248,160,360,272,1 128,247,240,359,9 88,19,172,103,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000567.jpg 205,178,227,200,4 350,215,364,229,6 311,0,353,42,8 141,198,169,226,0 210,271,294,355,3 70,8,182,120,6 49,243,161,355,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000568.jpg 294,44,316,66,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000569.jpg 338,248,360,270,8 107,357,121,371,0 151,143,179,171,2 360,158,402,200,3 218,337,260,379,1 171,176,283,288,7 43,145,155,257,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000570.jpg 201,392,215,406,7 380,155,394,169,7 294,345,336,387,7 306,277,334,305,2 195,32,251,88,9 306,175,362,231,6 339,145,367,173,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000571.jpg 151,82,165,96,9 188,47,202,61,8 181,226,203,248,0 237,221,279,263,0 23,19,65,61,6 51,160,79,188,6 51,320,79,348,1 244,91,286,133,0 192,334,234,376,4 287,150,371,234,1 118,36,230,148,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000572.jpg 401,122,415,136,2 216,368,230,382,2 343,77,399,133,0 235,190,347,302,5 5,58,89,142,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000573.jpg 368,304,390,326,4 50,17,106,73,3 204,236,232,264,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000574.jpg 171,139,193,161,9 194,258,208,272,3 296,143,310,157,7 251,20,307,76,4 174,206,202,234,3 205,26,233,54,2 211,97,267,153,8 352,137,408,193,4 124,142,166,184,2 315,17,399,101,4 12,228,96,312,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000575.jpg 238,191,260,213,2 5,143,27,165,3 340,65,368,93,7 147,177,175,205,1 209,212,237,240,4 55,0,139,84,3 11,218,123,330,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000576.jpg 66,51,80,65,4 64,293,86,315,1 315,159,371,215,4 192,365,220,393,3 220,72,262,114,9 67,369,95,397,4 319,353,361,395,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000577.jpg 115,85,129,99,4 353,302,381,330,2 276,84,318,126,2 155,285,183,313,8 118,384,146,412,3 8,319,64,375,3 136,40,192,96,7 206,309,290,393,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000578.jpg 86,152,108,174,5 168,192,182,206,3 44,100,72,128,4 227,64,283,120,6 349,236,405,292,1 249,354,291,396,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000579.jpg 92,268,148,324,0 47,32,89,74,7 170,136,212,178,0 243,341,299,397,1 272,0,384,112,5 187,250,271,334,4 271,109,355,193,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000580.jpg 202,111,314,223,1 110,268,194,352,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000581.jpg 166,9,208,51,6 253,216,295,258,1 110,170,152,212,1 286,57,398,169,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000582.jpg 326,132,348,154,3 238,204,280,246,9 329,192,385,248,5 49,154,133,238,2 134,203,218,287,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000583.jpg 16,289,72,345,4 270,252,312,294,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000584.jpg 157,103,179,125,1 189,137,245,193,9 283,201,395,313,3 196,299,280,383,4 43,234,127,318,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000585.jpg 58,213,80,235,7 110,13,152,55,2 118,154,146,182,5 164,335,206,377,3 189,155,217,183,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000586.jpg 321,223,343,245,3 277,66,333,122,4 227,153,269,195,4 209,314,265,370,5 312,158,354,200,3 200,262,242,304,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000587.jpg 56,160,70,174,2 161,164,175,178,8 185,299,199,313,1 355,252,411,308,5 239,290,295,346,1 5,89,117,201,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000588.jpg 95,243,109,257,5 48,380,70,402,6 94,311,116,333,0 124,178,166,220,2 254,46,310,102,2 144,91,186,133,4 197,117,281,201,1 261,223,373,335,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000589.jpg 343,185,371,213,6 247,261,289,303,7 216,371,244,399,3 330,67,414,151,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000590.jpg 277,236,299,258,1 306,354,320,368,7 149,301,177,329,0 141,153,197,209,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000591.jpg 288,187,310,209,0 52,131,74,153,8 345,114,359,128,1 28,176,70,218,4 178,294,220,336,6 149,197,177,225,0 83,56,111,84,3 177,202,261,286,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000592.jpg 151,33,165,47,8 72,79,114,121,0 256,259,298,301,7 317,136,359,178,2 215,5,299,89,7 23,283,135,395,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000593.jpg 150,2,164,16,6 252,68,266,82,7 199,162,255,218,0 8,172,64,228,8 307,174,391,258,1 48,36,132,120,9 102,248,214,360,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000594.jpg 33,132,55,154,9 160,169,182,191,4 203,134,231,162,0 98,320,154,376,7 248,49,290,91,7 278,287,334,343,8 343,306,385,348,0 123,202,235,314,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000595.jpg 237,224,251,238,3 139,41,167,69,0 95,298,123,326,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000596.jpg 261,138,283,160,2 372,304,386,318,4 253,241,275,263,4 14,77,56,119,9 137,131,249,243,6 186,13,298,125,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000597.jpg 350,276,364,290,0 175,342,197,364,2 139,273,181,315,4 121,23,177,79,1 184,241,240,297,7 260,234,372,346,4 46,93,130,177,7 264,34,348,118,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000598.jpg 162,47,184,69,4 389,307,403,321,6 303,22,331,50,7 202,34,286,118,9 114,69,198,153,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000599.jpg 0,347,22,369,9 28,401,42,415,4 49,139,105,195,8 309,370,351,412,2 166,316,222,372,6 85,252,127,294,6 308,90,392,174,7 137,44,221,128,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000600.jpg 140,308,162,330,5 332,99,346,113,0 287,371,301,385,6 271,325,313,367,0 109,353,165,409,4 47,246,89,288,9 98,34,182,118,1 178,189,290,301,6 311,327,395,411,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000601.jpg 309,39,365,95,1 225,205,267,247,7 366,131,394,159,0 272,359,314,401,5 296,255,324,283,7 53,258,81,286,9 12,167,96,251,5 220,1,304,85,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000602.jpg 51,302,65,316,9 132,135,146,149,3 199,339,213,353,4 38,5,66,33,3 298,330,354,386,8 386,187,414,215,1 226,91,268,133,4 138,4,180,46,0 251,175,363,287,7 86,177,198,289,9 7,48,119,160,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000603.jpg 155,314,169,328,2 208,234,222,248,1 362,199,404,241,8 251,56,293,98,8 240,334,296,390,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000604.jpg 258,14,280,36,6 94,92,116,114,6 109,134,131,156,7 250,262,306,318,5 36,322,92,378,8 14,34,42,62,2 4,188,46,230,4 278,164,306,192,8 163,76,247,160,1 121,257,205,341,0 173,157,285,269,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000605.jpg 197,40,219,62,6 309,234,331,256,0 75,178,89,192,9 30,305,72,347,2 108,294,164,350,2 210,302,322,414,3 77,91,189,203,6 264,40,376,152,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000606.jpg 166,358,180,372,7 118,216,146,244,6 202,251,244,293,5 178,128,206,156,7 68,355,124,411,8 317,116,373,172,7 54,24,166,136,2 291,312,375,396,2 16,217,100,301,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000607.jpg 268,312,290,334,6 343,252,365,274,7 145,199,167,221,1 387,114,415,142,0 216,384,244,412,7 314,318,342,346,4 162,35,246,119,5 97,330,181,414,3 63,162,147,246,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000608.jpg 52,226,74,248,1 37,47,59,69,0 145,143,173,171,8 108,368,136,396,0 340,295,368,323,9 277,346,333,402,1 196,157,252,213,2 358,31,386,59,2 159,18,243,102,8 42,122,154,234,9 26,263,138,375,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000609.jpg 325,112,347,134,4 255,335,269,349,8 180,371,222,413,7 18,164,46,192,7 18,236,74,292,9 176,53,218,95,5 133,119,217,203,9 277,189,361,273,9 231,22,315,106,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000610.jpg 317,237,339,259,1 267,356,281,370,6 96,242,110,256,6 290,62,346,118,1 169,348,197,376,0 68,163,110,205,8 234,200,262,228,9 104,256,132,284,7 189,251,273,335,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000611.jpg 204,208,226,230,6 89,364,111,386,5 186,375,208,397,9 150,283,192,325,4 288,194,400,306,8 249,80,361,192,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000612.jpg 171,1,199,29,3 7,298,63,354,8 79,76,135,132,4 158,275,214,331,5 44,154,156,266,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000613.jpg 129,235,143,249,4 374,274,402,302,6 204,110,260,166,6 163,255,191,283,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000614.jpg 372,171,394,193,2 241,372,263,394,3 5,302,19,316,0 61,40,103,82,8 281,343,323,385,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000615.jpg 109,336,123,350,7 309,310,331,332,2 61,149,75,163,8 146,53,174,81,7 153,255,195,297,2 343,309,399,365,0 314,94,356,136,6 274,370,316,412,4 223,215,279,271,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000616.jpg 367,271,381,285,0 390,347,412,369,6 385,42,413,70,8 260,38,316,94,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000617.jpg 157,114,171,128,1 14,355,28,369,3 135,139,149,153,8 263,55,375,167,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000618.jpg 77,309,119,351,2 75,29,187,141,8 179,94,291,206,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000619.jpg 218,183,232,197,8 181,166,195,180,7 49,135,105,191,9 308,255,364,311,1 178,121,206,149,4 211,57,267,113,0 129,256,171,298,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000620.jpg 136,270,158,292,9 70,67,182,179,8 255,181,339,265,6 253,293,337,377,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000621.jpg 66,226,94,254,5 123,48,165,90,1 207,102,291,186,1 319,240,403,324,8 4,17,116,129,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000622.jpg 241,102,255,116,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000623.jpg 92,97,114,119,8 365,221,379,235,1 1,261,23,283,9 240,343,296,399,5 227,6,255,34,0 303,273,345,315,0 384,297,412,325,7 42,131,126,215,8 25,226,137,338,2 226,102,310,186,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000624.jpg 232,122,254,144,2 40,331,68,359,0 350,264,406,320,9 3,360,31,388,3 202,5,244,47,9 88,243,200,355,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000625.jpg 276,182,298,204,6 342,292,364,314,8 250,19,264,33,1 138,84,180,126,5 152,302,264,414,5 6,81,90,165,2 83,179,167,263,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000626.jpg 35,20,57,42,0 147,299,169,321,3 123,280,145,302,7 247,158,289,200,3 386,7,414,35,0 256,385,284,413,5 194,310,236,352,9 362,53,404,95,1 64,30,176,142,4 231,4,343,116,0 23,199,107,283,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000627.jpg 401,237,415,251,2 312,259,326,273,8 174,346,188,360,6 145,152,173,180,1 25,249,67,291,1 140,100,182,142,3 327,280,355,308,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000628.jpg 12,192,40,220,2 46,131,130,215,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000629.jpg 378,194,392,208,5 375,274,397,296,2 95,3,151,59,4 183,385,211,413,0 60,330,144,414,4 278,275,362,359,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000630.jpg 328,187,350,209,3 280,73,302,95,6 134,179,156,201,7 48,262,104,318,3 66,346,122,402,7 280,347,336,403,1 75,170,103,198,3 203,230,259,286,2 163,18,247,102,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000631.jpg 231,221,245,235,8 188,139,202,153,4 275,233,331,289,9 170,274,254,358,7 316,64,400,148,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000632.jpg 325,94,367,136,1 54,25,110,81,9 306,195,362,251,8 197,161,239,203,6 188,121,230,163,7 52,195,164,307,7 284,288,396,400,7 209,236,293,320,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000633.jpg 5,87,61,143,6 190,304,232,346,2 329,257,371,299,4 47,292,89,334,0 292,290,334,332,2 54,15,166,127,8 231,48,315,132,4 69,213,153,297,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000634.jpg 173,187,215,229,3 174,358,230,414,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000635.jpg 387,222,401,236,3 41,284,55,298,0 65,206,79,220,9 312,218,368,274,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000636.jpg 17,112,59,154,7 128,201,156,229,6 66,332,122,388,8 269,146,325,202,6 72,230,100,258,9 299,107,327,135,5 169,102,253,186,6 227,222,339,334,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000637.jpg 69,285,83,299,1 104,14,126,36,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000638.jpg 125,142,181,198,1 273,188,329,244,5 140,35,182,77,4 242,96,298,152,0 31,123,115,207,4 248,243,360,355,0 99,320,183,404,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000639.jpg 21,161,133,273,8 216,271,328,383,4 6,45,118,157,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000640.jpg 31,292,143,404,9 190,53,302,165,7 75,39,187,151,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000641.jpg 186,97,208,119,1 344,122,358,136,1 127,265,149,287,4 224,266,266,308,2 368,285,396,313,9 229,115,271,157,6 98,346,126,374,7 299,50,355,106,2 19,58,131,170,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000642.jpg 96,144,118,166,9 168,329,190,351,3 15,328,37,350,0 181,374,209,402,3 134,26,176,68,6 53,196,109,252,6 25,9,67,51,4 40,258,124,342,0 295,72,407,184,4 268,214,380,326,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000643.jpg 128,66,184,122,4 342,96,384,138,1 190,18,218,46,2 260,83,288,111,5 60,239,144,323,3 164,206,276,318,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000644.jpg 281,332,295,346,1 111,217,167,273,0 287,90,329,132,0 75,280,103,308,7 318,39,360,81,7 201,306,229,334,9 228,230,284,286,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000645.jpg 378,312,392,326,8 46,24,102,80,3 366,9,394,37,6 318,177,374,233,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000646.jpg 148,172,170,194,7 324,206,366,248,8 14,99,42,127,3 64,248,120,304,8 256,293,312,349,2 44,67,86,109,1 265,206,307,248,7 132,282,244,394,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000647.jpg 140,129,154,143,5 379,189,393,203,5 321,150,349,178,8 25,248,81,304,6 370,323,398,351,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000648.jpg 159,274,173,288,9 280,311,302,333,5 200,213,256,269,9 303,247,415,359,4 76,286,188,398,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000649.jpg 146,51,160,65,4 22,7,44,29,5 266,344,308,386,3 178,378,206,406,5 156,215,268,327,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000650.jpg 263,201,285,223,0 262,234,276,248,9 208,178,264,234,4 346,108,374,136,4 358,153,386,181,1 235,50,347,162,7 11,258,123,370,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000651.jpg 196,36,218,58,3 183,275,197,289,8 15,161,29,175,9 323,100,379,156,8 127,156,155,184,0 29,227,113,311,9 45,41,157,153,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000652.jpg 120,399,134,413,0 186,19,214,47,7 308,160,364,216,9 277,266,333,322,3 46,263,74,291,7 349,10,377,38,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000653.jpg 173,204,187,218,1 280,274,294,288,0 78,204,106,232,4 341,173,383,215,6 141,144,169,172,8 166,274,250,358,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000654.jpg 384,154,406,176,2 332,207,374,249,1 96,308,124,336,3 336,310,364,338,7 323,23,379,79,6 81,146,109,174,8 220,357,262,399,4 117,324,201,408,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000655.jpg 172,253,186,267,2 104,257,126,279,3 238,179,350,291,6 87,76,199,188,9 100,288,212,400,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000656.jpg 88,115,110,137,7 271,350,313,392,6 283,164,339,220,5 81,222,193,334,1 222,221,334,333,0 100,26,184,110,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000657.jpg 167,234,181,248,0 72,67,94,89,2 204,78,218,92,5 350,224,392,266,7 10,101,38,129,6 90,96,118,124,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000658.jpg 376,137,390,151,2 295,295,309,309,7 231,342,253,364,7 41,249,69,277,4 125,341,181,397,7 282,376,310,404,1 74,252,116,294,3 173,221,229,277,5 67,139,109,181,4 154,48,266,160,8 287,235,399,347,8 262,34,374,146,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000659.jpg 175,260,189,274,7 342,146,356,160,9 137,300,179,342,7 38,102,66,130,9 194,289,236,331,6 201,156,257,212,2 385,328,413,356,3 281,51,365,135,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000660.jpg 135,49,149,63,6 17,392,39,414,6 40,303,96,359,9 235,223,347,335,2 150,128,262,240,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000661.jpg 353,146,367,160,3 341,342,363,364,9 56,71,70,85,2 85,14,169,98,0 236,292,320,376,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000662.jpg 256,277,284,305,9 159,318,187,346,3 3,331,45,373,0 131,187,243,299,5 67,65,151,149,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000663.jpg 336,386,358,408,5 281,257,303,279,5 67,256,109,298,8 246,295,302,351,6 141,11,197,67,2 239,172,295,228,1 74,28,130,84,6 77,297,119,339,0 152,129,236,213,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000664.jpg 48,297,70,319,8 245,355,267,377,1 201,165,243,207,9 74,6,130,62,3 54,219,82,247,1 258,18,286,46,5 32,145,60,173,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000665.jpg 173,233,187,247,7 44,24,66,46,9 0,315,14,329,5 344,313,386,355,6 324,33,380,89,1 200,294,256,350,1 357,188,399,230,2 194,12,222,40,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000666.jpg 277,300,299,322,2 309,45,331,67,6 324,313,346,335,4 154,370,182,398,7 36,181,78,223,7 151,60,207,116,0 275,203,303,231,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000667.jpg 53,67,81,95,5 180,348,222,390,5 153,42,209,98,9 31,114,87,170,8 47,278,103,334,4 272,106,356,190,9 257,264,341,348,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000668.jpg 74,136,130,192,6 225,201,253,229,9 197,151,225,179,5 313,119,341,147,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000669.jpg 81,46,103,68,2 128,373,156,401,7 326,89,368,131,9 28,72,84,128,5 319,43,347,71,7 191,248,247,304,3 127,278,183,334,5 314,253,398,337,7 118,59,230,171,1 246,151,330,235,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000670.jpg 179,178,201,200,1 359,135,401,177,1 229,214,257,242,9 107,218,149,260,4 88,325,144,381,7 220,138,248,166,3 264,21,320,77,8 249,104,333,188,3 120,60,204,144,9 221,312,305,396,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000671.jpg 345,212,359,226,1 346,159,360,173,3 3,206,31,234,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000672.jpg 392,88,414,110,1 14,294,126,406,6 147,288,259,400,4 119,202,203,286,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000673.jpg 8,16,30,38,0 138,261,152,275,2 55,26,69,40,9 124,134,236,246,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000674.jpg 207,140,249,182,1 313,276,397,360,3 2,212,114,324,3 53,323,137,407,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000675.jpg 354,109,376,131,1 246,173,268,195,8 381,135,395,149,2 230,196,258,224,5 173,70,229,126,1 185,127,241,183,3 85,314,141,370,9 214,237,270,293,0 276,175,388,287,9 38,193,150,305,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000676.jpg 208,300,230,322,4 62,333,76,347,4 134,188,156,210,9 262,347,318,403,0 319,183,347,211,6 132,284,188,340,3 331,71,359,99,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000677.jpg 192,4,220,32,1 257,259,369,371,9 180,118,292,230,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000678.jpg 226,305,254,333,3 119,243,161,285,7 337,179,379,221,7 224,1,252,29,7 2,363,30,391,1 206,230,234,258,8 160,123,272,235,9 55,311,139,395,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000679.jpg 145,153,167,175,0 320,194,334,208,2 271,283,285,297,7 142,15,184,57,1 327,67,355,95,8 40,159,96,215,3 205,63,233,91,4 0,354,56,410,5 156,173,268,285,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000680.jpg 148,213,176,241,7 19,320,75,376,6 187,205,229,247,7 239,58,281,100,4 323,314,365,356,7 275,35,387,147,4 264,184,348,268,0 25,137,137,249,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000681.jpg 134,375,148,389,7 142,266,164,288,9 93,57,121,85,9 324,306,352,334,9 20,300,104,384,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000682.jpg 151,163,165,177,5 112,68,126,82,2 95,237,117,259,3 70,97,112,139,4 133,250,217,334,7 122,40,234,152,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000683.jpg 334,92,376,134,7 197,208,253,264,0 364,337,406,379,7 93,112,135,154,7 22,306,106,390,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000684.jpg 161,126,175,140,1 55,199,69,213,0 325,109,339,123,3 358,302,386,330,4 0,211,42,253,4 157,147,185,175,8 127,338,155,366,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000685.jpg 23,119,45,141,3 368,228,382,242,9 167,8,189,30,5 99,159,183,243,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000686.jpg 71,75,85,89,3 53,321,67,335,3 196,282,280,366,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000687.jpg 284,356,298,370,1 99,296,121,318,8 118,189,174,245,6 296,72,352,128,3 1,321,57,377,2 162,60,190,88,2 257,40,285,68,3 7,52,91,136,9 255,225,339,309,6 6,204,90,288,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000688.jpg 224,124,246,146,9 136,360,150,374,2 332,188,346,202,3 254,101,338,185,1 24,93,108,177,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000689.jpg 32,105,54,127,3 168,242,210,284,9 310,71,366,127,7 224,141,266,183,9 167,181,223,237,9 64,69,176,181,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000690.jpg 341,172,363,194,0 309,221,331,243,7 198,71,254,127,2 109,315,137,343,4 34,1,90,57,5 125,30,167,72,8 300,117,342,159,7 291,2,347,58,0 1,158,85,242,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000691.jpg 130,53,152,75,9 201,168,215,182,5 318,19,332,33,2 86,290,142,346,3 63,52,119,108,3 322,177,406,261,2 71,108,183,220,8 251,87,335,171,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000692.jpg 277,229,319,271,2 220,12,304,96,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000693.jpg 160,58,174,72,3 325,258,367,300,1 175,180,203,208,7 149,248,205,304,0 194,336,236,378,0 341,186,369,214,8 259,297,343,381,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000694.jpg 141,118,225,202,1 261,254,373,366,5 253,97,365,209,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000695.jpg 202,17,230,45,6 97,252,209,364,8 309,108,393,192,1 19,29,103,113,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000696.jpg 0,37,22,59,1 50,337,106,393,7 191,234,247,290,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000697.jpg 392,108,406,122,6 135,241,191,297,7 14,28,56,70,9 296,77,352,133,3 135,8,191,64,8 305,244,333,272,7 62,25,104,67,8 207,316,291,400,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000698.jpg 362,324,384,346,0 144,168,166,190,7 18,230,32,244,5 383,329,411,357,2 293,311,335,353,1 50,33,92,75,9 139,125,167,153,3 271,129,313,171,5 164,160,248,244,1 93,240,205,352,1 295,2,407,114,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000699.jpg 200,162,256,218,0 180,318,222,360,9 241,340,297,396,1 22,126,64,168,6 276,147,332,203,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000700.jpg 171,130,227,186,7 52,326,80,354,1 153,211,181,239,1 340,331,368,359,9 133,251,245,363,1 81,17,165,101,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000701.jpg 138,176,160,198,8 129,357,151,379,0 249,158,271,180,0 330,371,358,399,2 322,185,350,213,4 356,117,412,173,9 280,273,336,329,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000702.jpg 92,25,106,39,2 24,189,66,231,2 188,330,272,414,6 122,119,206,203,2 271,109,383,221,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000703.jpg 263,351,277,365,4 272,25,328,81,5 113,54,155,96,6 161,313,189,341,7 249,272,361,384,8 192,145,304,257,0 2,123,114,235,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000704.jpg 145,45,167,67,9 196,191,252,247,7 113,243,169,299,0 148,295,204,351,5 373,360,401,388,6 60,10,102,52,1 94,124,178,208,9 12,220,96,304,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000705.jpg 243,309,265,331,4 296,327,324,355,8 329,321,357,349,7 72,256,156,340,1 191,57,303,169,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000706.jpg 216,219,230,233,1 319,63,341,85,5 294,82,322,110,3 12,214,96,298,4 245,183,329,267,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000707.jpg 169,134,183,148,8 370,24,398,52,8 204,49,232,77,7 126,19,168,61,3 204,144,260,200,4 31,156,143,268,5 289,150,373,234,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000708.jpg 297,324,319,346,8 95,65,109,79,5 99,381,127,409,0 242,132,354,244,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000709.jpg 173,330,195,352,9 163,208,185,230,9 340,157,354,171,2 27,228,69,270,5 14,103,126,215,8 325,233,409,317,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000710.jpg 142,73,156,87,9 295,65,309,79,7 379,121,407,149,8 91,197,147,253,6 112,26,140,54,2 356,185,412,241,4 73,321,129,377,4 150,10,234,94,1 206,283,290,367,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000711.jpg 327,313,369,355,1 152,238,180,266,5 199,316,241,358,5 181,136,293,248,6 294,20,378,104,3 32,144,144,256,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000712.jpg 265,269,279,283,2 70,350,84,364,9 154,249,182,277,8 120,273,162,315,3 276,280,360,364,8 283,177,367,261,2 76,18,188,130,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000713.jpg 189,307,203,321,3 144,199,172,227,0 123,145,179,201,8 37,307,121,391,9 271,53,383,165,8 311,294,395,378,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000714.jpg 1,259,43,301,7 219,2,275,58,3 48,114,76,142,9 352,5,408,61,1 158,210,270,322,0 45,236,129,320,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000715.jpg 215,15,229,29,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000716.jpg 381,366,395,380,0 291,257,305,271,6 275,302,331,358,2 85,75,197,187,7 72,294,184,406,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000717.jpg 60,356,82,378,5 139,250,195,306,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000718.jpg 54,130,76,152,0 61,66,75,80,5 97,306,139,348,9 158,369,186,397,1 130,104,214,188,5 288,228,400,340,4 179,205,263,289,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000719.jpg 383,129,405,151,1 188,239,216,267,0 282,170,394,282,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000720.jpg 296,294,310,308,5 360,209,374,223,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000721.jpg 235,4,257,26,4 10,47,32,69,4 300,4,356,60,2 320,269,362,311,6 65,368,93,396,2 262,111,290,139,5 167,179,209,221,7 89,25,173,109,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000722.jpg 67,63,89,85,8 241,131,255,145,3 5,259,27,281,3 35,101,77,143,9 49,156,77,184,2 151,341,193,383,6 312,208,368,264,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000723.jpg 397,354,411,368,0 241,178,255,192,8 50,323,78,351,2 139,75,223,159,8 77,1,161,85,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000724.jpg 326,253,340,267,6 248,308,304,364,0 245,228,301,284,6 143,128,185,170,8 254,99,338,183,6 45,161,129,245,7 149,265,233,349,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000725.jpg 374,149,388,163,4 262,22,284,44,3 232,229,254,251,5 57,323,141,407,1 124,5,236,117,8 251,42,335,126,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000726.jpg 36,134,58,156,5 214,390,228,404,9 244,76,328,160,2 76,139,160,223,7 102,223,214,335,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000727.jpg 226,197,248,219,5 385,34,399,48,0 288,16,310,38,8 280,263,308,291,1 176,272,204,300,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000728.jpg 80,51,94,65,9 245,107,267,129,9 128,16,150,38,3 35,379,63,407,1 49,258,105,314,7 61,159,117,215,3 220,82,248,110,1 98,85,140,127,4 329,198,413,282,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000729.jpg 127,41,149,63,5 185,48,207,70,1 381,32,395,46,5 371,196,413,238,7 234,173,276,215,0 122,366,164,408,7 245,231,287,273,3 93,256,177,340,5 295,6,407,118,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000730.jpg 116,141,130,155,9 64,113,86,135,2 331,136,387,192,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000731.jpg 62,107,146,191,8 221,239,305,323,5 108,206,220,318,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000732.jpg 116,54,130,68,9 346,80,374,108,5 371,238,413,280,2 227,324,283,380,1 72,218,100,246,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000733.jpg 82,345,104,367,5 284,361,298,375,8 246,68,274,96,2 204,153,246,195,9 236,234,278,276,6 63,115,91,143,2 87,204,143,260,5 346,64,374,92,2 105,273,189,357,3 198,293,310,405,8 299,157,411,269,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000734.jpg 29,323,71,365,6 120,319,176,375,9 145,90,201,146,6 83,145,167,229,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000735.jpg 161,221,175,235,7 398,386,412,400,8 314,313,370,369,9 133,283,175,325,9 192,256,304,368,3 135,139,219,223,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000736.jpg 141,311,163,333,7 160,223,182,245,0 218,34,246,62,7 292,330,348,386,7 48,276,104,332,3 34,66,76,108,9 230,85,272,127,1 188,135,300,247,5 44,112,156,224,4 320,70,404,154,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000737.jpg 46,381,68,403,0 6,154,20,168,5 282,252,304,274,9 345,88,373,116,3 150,34,192,76,4 316,378,344,406,1 235,19,291,75,5 50,63,134,147,6 208,292,320,404,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000738.jpg 37,125,59,147,1 185,326,207,348,7 54,81,96,123,6 190,230,246,286,8 169,180,197,208,7 126,266,182,322,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000739.jpg 242,86,270,114,9 3,174,31,202,4 100,199,156,255,0 109,278,165,334,4 254,303,282,331,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000740.jpg 372,167,414,209,1 134,340,176,382,6 184,199,240,255,7 269,118,297,146,7 68,158,180,270,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000741.jpg 41,52,55,66,0 235,93,291,149,1 86,257,142,313,5 74,61,116,103,1 137,380,165,408,6 330,201,386,257,6 296,76,408,188,8 163,178,247,262,3 298,297,410,409,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000742.jpg 364,283,406,325,5 234,294,346,406,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000743.jpg 257,44,299,86,4 309,233,337,261,4 163,74,191,102,2 264,318,348,402,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000744.jpg 276,192,298,214,7 110,336,124,350,8 132,208,146,222,4 267,335,309,377,7 109,24,165,80,3 27,244,111,328,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000745.jpg 87,74,109,96,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000746.jpg 279,18,293,32,4 309,67,331,89,2 19,311,47,339,9 208,328,250,370,2 54,70,96,112,7 345,46,387,88,4 42,192,98,248,3 367,137,409,179,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000747.jpg 118,41,140,63,1 185,232,199,246,2 113,66,127,80,0 351,220,379,248,8 178,59,220,101,8 163,99,247,183,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000748.jpg 125,379,139,393,3 160,285,188,313,9 24,102,52,130,1 258,6,314,62,2 152,193,180,221,5 288,180,400,292,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000749.jpg 247,145,275,173,9 349,171,405,227,9 374,26,402,54,9 188,278,244,334,0 335,257,363,285,9 58,58,170,170,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000750.jpg 8,120,30,142,6 140,383,162,405,1 98,176,140,218,5 361,103,389,131,1 148,252,204,308,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000751.jpg 354,63,382,91,4 381,173,409,201,9 204,260,246,302,7 235,121,263,149,1 323,276,379,332,8 116,208,200,292,1 109,289,221,401,6 28,44,140,156,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000752.jpg 204,74,226,96,7 128,251,156,279,3 142,60,198,116,7 62,13,90,41,3 342,224,384,266,7 174,216,216,258,1 71,140,127,196,9 260,180,344,264,5 324,85,408,169,8 303,292,387,376,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000753.jpg 67,190,81,204,4 101,239,123,261,1 123,125,165,167,5 169,116,225,172,4 277,199,305,227,8 252,350,280,378,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000754.jpg 279,204,301,226,9 326,204,382,260,0 142,37,198,93,8 30,24,142,136,1 250,251,334,335,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000755.jpg 79,209,93,223,5 210,146,224,160,9 93,82,149,138,2 244,218,356,330,3 86,154,198,266,9 20,288,132,400,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000756.jpg 82,278,104,300,5 44,383,58,397,2 118,50,230,162,1 309,327,393,411,3 216,274,300,358,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000757.jpg 296,83,352,139,4 10,280,52,322,2 297,138,353,194,6 82,286,138,342,7 182,117,224,159,3 172,200,284,312,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000758.jpg 127,268,141,282,4 347,119,403,175,3 191,171,219,199,0 379,203,407,231,8 110,40,222,152,9 254,331,338,415,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000759.jpg 237,239,251,253,5 59,49,87,77,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000760.jpg 368,93,396,121,0 286,322,342,378,6 222,58,278,114,0 176,194,288,306,6 30,20,142,132,9 275,113,387,225,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000761.jpg 202,178,216,192,1 137,23,165,51,6 47,263,89,305,5 219,357,261,399,1 160,309,188,337,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000762.jpg 207,43,229,65,6 236,387,258,409,6 63,44,77,58,9 211,241,267,297,5 342,229,370,257,6 350,52,406,108,9 330,7,372,49,1 37,7,65,35,3 311,277,339,305,2 229,103,341,215,2 310,319,394,403,7 100,329,184,413,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000763.jpg 52,163,80,191,8 370,229,412,271,2 260,256,288,284,8 74,360,116,402,9 153,275,237,359,4 278,100,390,212,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000764.jpg 150,122,164,136,0 240,382,254,396,2 182,102,204,124,8 89,86,145,142,2 81,294,193,406,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000765.jpg 311,79,325,93,8 82,27,96,41,7 137,325,193,381,1 5,275,33,303,1 228,52,256,80,8 106,253,134,281,6 159,168,215,224,2 245,281,329,365,6 328,31,412,115,2 146,234,230,318,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000766.jpg 174,132,196,154,2 283,309,305,331,6 323,320,345,342,7 355,141,383,169,3 185,366,227,408,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000767.jpg 147,66,189,108,8 326,115,354,143,1 222,339,264,381,2 95,233,151,289,0 364,292,406,334,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000768.jpg 227,39,249,61,4 212,63,226,77,1 304,56,326,78,1 186,231,214,259,0 331,201,373,243,7 157,327,199,369,0 41,287,83,329,6 48,159,160,271,0 245,239,329,323,2 193,119,305,231,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000769.jpg 117,108,159,150,1 29,255,85,311,4 286,77,328,119,1 54,118,82,146,8 199,369,241,411,0 263,315,347,399,2 147,245,259,357,6 199,115,311,227,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000770.jpg 130,334,152,356,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000771.jpg 243,340,257,354,3 181,107,203,129,7 147,157,175,185,7 127,341,169,383,2 36,157,92,213,1 263,63,291,91,7 249,26,277,54,6 262,342,290,370,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000772.jpg 86,159,108,181,9 181,83,223,125,7 141,201,169,229,3 237,186,349,298,4 272,15,384,127,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000773.jpg 231,112,245,126,1 126,182,140,196,1 282,291,338,347,0 174,211,230,267,5 161,60,189,88,9 192,283,276,367,9 108,288,192,372,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000774.jpg 180,235,194,249,9 201,7,215,21,5 98,346,112,360,1 352,225,408,281,7 117,327,173,383,5 218,56,260,98,0 47,36,75,64,2 342,358,384,400,9 225,204,309,288,1 14,172,126,284,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000775.jpg 338,315,352,329,6 42,177,56,191,5 79,133,163,217,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000776.jpg 135,167,149,181,5 324,31,338,45,4 275,229,317,271,2 245,56,287,98,5 290,154,318,182,2 338,188,366,216,6 15,343,43,371,7 33,79,61,107,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000777.jpg 51,114,73,136,2 72,214,94,236,1 387,137,409,159,0 306,54,362,110,8 82,275,124,317,5 108,221,164,277,6 172,87,200,115,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000778.jpg 211,22,253,64,3 211,335,253,377,1 347,260,403,316,1 270,323,312,365,8 333,321,389,377,4 103,265,145,307,4 125,77,237,189,1 209,227,293,311,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000779.jpg 77,317,91,331,5 345,116,401,172,5 205,321,247,363,2 109,46,137,74,9 311,130,339,158,7 134,176,176,218,5 3,32,87,116,1 2,140,114,252,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000780.jpg 353,4,409,60,5 207,155,319,267,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000781.jpg 44,82,86,124,0 53,28,109,84,4 187,43,215,71,2 148,3,176,31,3 281,56,309,84,2 181,13,209,41,6 300,273,412,385,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000782.jpg 87,118,101,132,7 362,99,404,141,9 95,295,151,351,7 205,55,317,167,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000783.jpg 102,109,124,131,2 161,298,175,312,1 373,294,387,308,1 293,228,335,270,3 209,12,265,68,9 286,86,342,142,5 177,256,205,284,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000784.jpg 233,175,255,197,5 141,178,163,200,6 383,260,405,282,9 30,280,142,392,3 223,224,335,336,1 40,120,124,204,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000785.jpg 153,25,181,53,3 182,87,210,115,3 31,183,87,239,4 167,274,195,302,2 301,38,343,80,3 352,107,408,163,2 115,166,227,278,0 292,241,376,325,0 193,9,277,93,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000786.jpg 138,237,160,259,5 231,50,245,64,8 203,261,231,289,2 132,38,188,94,2 8,193,50,235,7 182,329,224,371,9 263,173,319,229,7 216,297,244,325,4 85,292,169,376,1 17,34,129,146,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000787.jpg 6,356,62,412,4 46,313,88,355,1 152,197,180,225,9 328,13,356,41,2 162,139,190,167,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000788.jpg 326,278,354,306,0 64,46,148,130,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000789.jpg 53,318,67,332,1 7,94,91,178,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000790.jpg 178,252,234,308,1 301,118,413,230,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000791.jpg 252,392,266,406,1 370,10,392,32,8 243,12,285,54,0 133,185,189,241,3 317,273,373,329,0 386,346,414,374,0 58,231,114,287,8 300,360,328,388,1 20,291,132,403,3 162,69,246,153,8 139,255,251,367,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000792.jpg 74,392,88,406,8 306,259,328,281,5 328,172,370,214,8 173,210,229,266,4 41,2,97,58,3 200,288,242,330,2 219,327,261,369,8 235,116,319,200,1 25,162,109,246,8 150,24,234,108,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000793.jpg 35,350,57,372,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000794.jpg 242,313,256,327,8 138,17,152,31,7 8,230,30,252,5 90,290,146,346,7 358,267,414,323,4 195,126,223,154,1 207,157,263,213,1 59,364,87,392,8 213,6,255,48,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000795.jpg 91,55,133,97,5 246,269,288,311,1 272,149,384,261,9 52,269,164,381,3 227,55,311,139,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000796.jpg 305,242,327,264,2 341,109,363,131,4 5,343,19,357,0 264,289,292,317,7 327,155,383,211,7 187,163,299,275,8 196,51,280,135,1 68,259,152,343,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000797.jpg 306,222,320,236,2 260,123,302,165,6 288,376,316,404,6 334,36,362,64,0 120,291,162,333,1 191,339,247,395,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000798.jpg 258,263,280,285,5 85,314,99,328,8 262,102,284,124,3 106,40,148,82,2 103,249,145,291,9 294,325,350,381,0 16,53,72,109,2 150,261,192,303,0 377,141,405,169,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000799.jpg 17,347,31,361,4 179,328,193,342,5 226,248,254,276,2 1,278,43,320,7 96,243,208,355,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000800.jpg 79,393,101,415,4 172,240,200,268,1 109,3,165,59,7 38,276,80,318,2 258,52,370,164,0 92,303,176,387,0 10,79,122,191,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000801.jpg 29,0,43,14,2 105,142,147,184,3 332,98,360,126,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000802.jpg 298,317,320,339,0 3,326,25,348,2 195,10,251,66,6 250,315,292,357,6 61,41,173,153,8 207,82,291,166,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000803.jpg 309,229,351,271,7 60,17,102,59,1 323,37,351,65,0 275,146,303,174,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000804.jpg 45,334,59,348,4 314,242,328,256,6 182,16,204,38,2 116,222,144,250,2 286,102,328,144,6 248,335,290,377,2 48,36,90,78,9 59,202,87,230,6 161,142,245,226,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000805.jpg 161,278,183,300,1 356,291,378,313,1 28,283,56,311,3 114,118,226,230,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000806.jpg 250,284,264,298,6 273,230,287,244,0 63,34,175,146,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000807.jpg 246,353,260,367,9 65,10,93,38,3 222,191,264,233,7 100,91,142,133,4 330,199,358,227,0 95,184,137,226,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000808.jpg 306,1,348,43,6 322,52,378,108,8 254,33,310,89,2 149,233,177,261,2 387,164,415,192,5 31,301,115,385,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000809.jpg 271,344,285,358,7 256,390,278,412,0 275,270,331,326,1 79,318,163,402,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000810.jpg 226,146,248,168,2 329,362,351,384,0 243,15,265,37,2 59,110,171,222,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000811.jpg 256,39,270,53,1 383,122,405,144,1 299,228,355,284,0 232,353,260,381,7 179,275,221,317,4 13,297,55,339,7 223,185,279,241,0 178,100,206,128,4 274,11,386,123,5 61,5,145,89,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000812.jpg 288,98,302,112,8 201,319,223,341,7 215,107,243,135,9 262,0,318,56,6 215,67,243,95,6 110,118,166,174,5 332,343,388,399,0 0,108,112,220,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000813.jpg 231,273,245,287,5 92,106,114,128,6 133,48,245,160,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000814.jpg 78,58,92,72,9 59,83,81,105,7 220,249,262,291,3 269,255,325,311,4 317,79,373,135,5 168,333,196,361,4 328,301,370,343,9 58,32,86,60,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000815.jpg 339,240,361,262,6 27,101,69,143,6 1,229,29,257,2 182,372,210,400,5 47,16,75,44,0 146,282,230,366,6 173,124,257,208,5 299,38,411,150,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000816.jpg 156,130,170,144,8 374,148,396,170,8 227,69,241,83,1 314,262,342,290,5 183,247,225,289,4 220,193,248,221,6 45,36,129,120,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000817.jpg 358,85,400,127,3 85,300,141,356,9 268,324,296,352,3 80,383,108,411,2 145,148,229,232,1 299,151,411,263,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000818.jpg 320,9,334,23,4 137,219,159,241,2 93,91,115,113,5 167,345,209,387,5 356,344,384,372,4 25,274,109,358,9 261,52,345,136,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000819.jpg 291,135,305,149,8 185,74,199,88,1 152,0,208,56,3 279,203,391,315,4 196,89,280,173,7 42,123,154,235,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000820.jpg 278,222,292,236,4 272,145,328,201,0 129,279,241,391,3 157,10,241,94,5 52,80,136,164,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000821.jpg 244,197,258,211,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000822.jpg 76,184,98,206,8 207,63,221,77,4 200,260,214,274,0 231,155,287,211,1 18,156,60,198,2 150,35,206,91,5 166,150,194,178,5 122,333,164,375,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000823.jpg 112,22,126,36,0 109,237,131,259,9 71,286,113,328,1 217,339,273,395,5 373,185,401,213,4 226,174,310,258,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000824.jpg 42,154,56,168,5 360,84,388,112,3 267,213,309,255,6 162,182,190,210,8 131,81,173,123,1 184,256,240,312,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000825.jpg 258,336,314,392,6 30,229,72,271,7 220,247,276,303,1 12,15,40,43,5 217,154,245,182,8 117,204,201,288,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000826.jpg 89,131,201,243,4 246,304,330,388,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000827.jpg 118,264,202,348,4 115,52,227,164,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000828.jpg 286,307,300,321,1 53,69,67,83,1 33,343,47,357,1 333,253,389,309,7 206,7,262,63,6 92,112,176,196,3 109,281,221,393,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000829.jpg 44,137,58,151,2 337,82,359,104,6 358,292,400,334,7 351,333,407,389,7 200,68,242,110,8 10,185,66,241,8 81,88,109,116,7 160,153,216,209,4 43,299,127,383,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000830.jpg 306,61,328,83,4 61,243,75,257,4 51,365,93,407,1 192,108,276,192,8 49,179,161,291,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000831.jpg 177,212,191,226,9 165,324,187,346,2 380,63,402,85,3 49,247,77,275,5 334,341,376,383,0 235,145,277,187,2 274,274,330,330,4 275,56,359,140,3 94,30,178,114,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000832.jpg 346,251,368,273,9 240,156,254,170,6 45,213,67,235,1 64,133,92,161,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000833.jpg 47,168,69,190,3 142,81,254,193,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000834.jpg 46,312,60,326,1 59,37,73,51,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000835.jpg 148,335,162,349,0 323,44,365,86,6 11,324,53,366,4 83,74,125,116,5 125,4,167,46,3 122,205,150,233,9 71,305,155,389,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000836.jpg 37,123,51,137,4 84,269,106,291,0 135,129,163,157,6 264,202,376,314,9 46,165,158,277,5 227,11,311,95,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000837.jpg 9,211,51,253,0 318,227,374,283,9 136,201,164,229,2 161,385,189,413,5 242,295,354,407,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000838.jpg 32,374,54,396,2 324,358,380,414,6 245,79,301,135,3 301,49,357,105,8 1,60,85,144,3 92,225,176,309,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000839.jpg 356,100,370,114,4 64,101,78,115,9 260,134,288,162,6 239,202,295,258,0 206,277,290,361,2 99,73,211,185,6 241,28,325,112,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000840.jpg 106,389,128,411,6 174,378,196,400,3 308,318,364,374,0 50,369,92,411,2 300,2,356,58,7 359,75,401,117,0 321,204,349,232,5 166,134,278,246,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000841.jpg 3,310,25,332,4 261,24,275,38,5 207,66,235,94,9 125,177,153,205,7 204,130,232,158,5 297,248,325,276,1 318,37,346,65,7 262,283,304,325,5 123,220,235,332,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000842.jpg 129,73,151,95,9 17,107,45,135,0 145,206,201,262,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000843.jpg 392,66,414,88,3 9,251,65,307,3 198,159,240,201,1 111,181,167,237,0 369,288,397,316,2 122,264,178,320,6 281,12,337,68,9 212,284,324,396,7 310,132,394,216,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000844.jpg 222,253,244,275,7 333,391,347,405,3 251,27,265,41,3 55,58,83,86,6 377,100,405,128,9 82,6,166,90,7 303,181,415,293,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000845.jpg 333,189,347,203,5 121,6,205,90,8 184,241,268,325,0 51,242,135,326,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000846.jpg 98,368,120,390,9 123,181,137,195,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000847.jpg 241,143,255,157,6 174,316,188,330,7 69,148,91,170,5 350,110,378,138,3 23,47,79,103,7 87,195,115,223,4 312,141,354,183,4 186,26,214,54,8 196,270,308,382,5 302,183,386,267,1 112,89,196,173,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000848.jpg 17,30,73,86,0 8,316,50,358,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000849.jpg 284,18,298,32,3 123,63,145,85,1 66,44,80,58,3 180,106,236,162,6 77,197,133,253,1 137,276,193,332,0 325,83,367,125,6 196,6,252,62,7 199,167,283,251,3 287,217,399,329,1 159,330,243,414,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000850.jpg 103,131,145,173,9 356,88,384,116,1 60,294,172,406,3 195,280,307,392,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000851.jpg 283,61,339,117,4 125,295,167,337,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000852.jpg 381,249,403,271,8 170,68,184,82,8 140,307,154,321,8 50,55,78,83,3 191,170,275,254,1 181,288,265,372,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000853.jpg 159,383,181,405,4 34,287,62,315,3 44,191,100,247,0 347,20,403,76,3 279,234,307,262,2 166,287,278,399,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000854.jpg 25,49,53,77,6 157,375,185,403,7 240,230,296,286,4 123,231,207,315,4 95,1,207,113,1 290,32,374,116,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000855.jpg 375,54,397,76,5 211,139,233,161,3 236,131,258,153,8 216,300,272,356,1 368,119,396,147,0 77,51,105,79,7 301,168,413,280,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000856.jpg 277,353,291,367,6 380,85,394,99,0 218,351,240,373,4 65,40,121,96,1 319,173,361,215,1 185,193,213,221,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000857.jpg 13,117,27,131,3 144,313,158,327,2 210,157,252,199,7 62,319,118,375,3 208,307,250,349,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000858.jpg 234,317,248,331,7 305,3,319,17,8 256,306,270,320,9 243,32,285,74,9 149,198,205,254,3 39,211,95,267,1 226,344,282,400,4 297,298,339,340,3 307,92,363,148,6 14,119,98,203,3 295,156,379,240,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000859.jpg 337,58,351,72,5 339,243,381,285,3 52,77,80,105,0 175,15,203,43,3 332,151,374,193,1 359,216,387,244,3 354,293,410,349,7 202,113,286,197,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000860.jpg 62,32,84,54,4 305,333,319,347,5 21,11,63,53,7 373,178,415,220,3 307,226,363,282,4 254,278,282,306,8 245,88,287,130,5 35,78,147,190,2 174,282,258,366,0 85,217,169,301,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000861.jpg 8,360,36,388,9 351,90,393,132,7 219,314,247,342,7 15,298,57,340,1 151,21,193,63,3 152,108,208,164,2 111,251,223,363,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000862.jpg 211,332,225,346,4 144,177,158,191,1 78,297,100,319,9 325,277,409,361,3 312,183,396,267,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000863.jpg 172,204,186,218,1 86,76,108,98,3 42,314,56,328,7 343,187,385,229,7 62,6,90,34,6 59,102,101,144,2 113,317,169,373,2 170,322,226,378,0 98,154,140,196,1 117,76,201,160,0 265,16,377,128,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000864.jpg 229,47,251,69,1 179,350,201,372,9 35,270,49,284,4 50,246,78,274,8 124,339,166,381,3 29,304,57,332,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000865.jpg 96,351,138,393,9 141,200,169,228,1 78,143,120,185,4 133,85,189,141,8 302,70,386,154,1 205,176,289,260,9 279,280,391,392,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000866.jpg 155,144,183,172,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000867.jpg 253,264,275,286,9 109,369,131,391,7 340,174,396,230,3 257,353,299,395,5 79,155,191,267,5 186,124,298,236,9 72,8,184,120,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000868.jpg 211,127,225,141,8 340,168,396,224,5 237,308,265,336,4 29,334,85,390,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000869.jpg 209,131,265,187,9 285,68,341,124,8 350,368,392,410,3 193,278,305,390,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000870.jpg 382,70,396,84,7 384,161,406,183,0 97,281,111,295,0 151,263,207,319,0 180,149,208,177,7 328,48,356,76,1 233,2,289,58,0 92,33,204,145,0 224,118,308,202,3 284,285,396,397,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000871.jpg 135,129,157,151,7 285,102,307,124,6 221,251,243,273,8 0,327,42,369,1 281,371,323,413,5 169,339,225,395,5 199,191,227,219,0 141,64,183,106,3 243,329,285,371,5 18,127,102,211,4 173,81,285,193,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000872.jpg 341,223,383,265,5 20,303,76,359,9 25,12,53,40,5 212,98,254,140,6 67,81,95,109,6 173,149,215,191,2 148,282,260,394,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000873.jpg 330,350,344,364,3 94,204,108,218,5 244,100,286,142,0 278,44,320,86,1 107,22,135,50,4 89,209,201,321,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000874.jpg 19,10,75,66,6 149,20,177,48,3 47,85,159,197,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000875.jpg 170,10,184,24,3 153,369,167,383,5 64,38,86,60,1 305,160,347,202,5 109,314,165,370,0 181,250,237,306,9 205,106,247,148,3 122,122,178,178,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000876.jpg 286,233,314,261,8 56,191,84,219,8 353,262,395,304,9 292,331,334,373,7 351,162,393,204,7 222,311,278,367,1 104,246,188,330,7 194,27,278,111,0 179,129,263,213,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000877.jpg 322,154,336,168,8 312,231,326,245,7 79,29,135,85,9 114,207,170,263,1 295,87,407,199,6 204,154,288,238,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000878.jpg 281,173,303,195,4 123,314,137,328,1 80,370,108,398,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000879.jpg 251,209,265,223,5 245,151,301,207,1 104,243,188,327,7 141,156,225,240,6 250,295,362,407,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000880.jpg 8,40,30,62,2 113,81,127,95,8 15,272,71,328,7 87,7,143,63,8 243,372,271,400,4 283,61,339,117,1 340,45,382,87,3 317,115,401,199,9 240,267,352,379,5 68,152,180,264,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000881.jpg 193,178,215,200,2 256,131,312,187,9 319,327,361,369,2 37,116,65,144,0 14,156,56,198,0 232,68,260,96,0 223,265,251,293,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000882.jpg 245,376,259,390,0 305,362,347,404,8 315,221,343,249,2 354,92,396,134,1 185,189,227,231,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000883.jpg 366,148,388,170,9 204,213,232,241,0 139,44,181,86,4 378,189,406,217,2 219,141,247,169,1 262,127,374,239,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000884.jpg 130,8,158,36,3 222,349,278,405,4 79,252,163,336,4 209,16,293,100,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000885.jpg 97,275,119,297,6 283,104,305,126,7 45,235,59,249,7 366,216,408,258,7 27,55,69,97,8 274,209,302,237,5 36,132,64,160,5 135,97,191,153,3 112,158,168,214,6 109,232,221,344,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000886.jpg 251,228,279,256,1 323,211,365,253,2 291,346,347,402,0 3,180,59,236,7 368,98,410,140,7 128,43,240,155,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000887.jpg 230,12,258,40,6 150,196,178,224,5 289,290,317,318,3 116,111,144,139,0 285,244,327,286,3 171,111,227,167,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000888.jpg 87,28,101,42,2 244,144,272,172,7 175,340,217,382,6 153,81,181,109,1 312,279,368,335,6 99,258,183,342,6 41,11,153,123,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000889.jpg 267,45,309,87,3 143,206,185,248,6 81,124,137,180,4 43,257,99,313,6 210,83,266,139,6 51,64,79,92,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000890.jpg 364,366,386,388,8 124,162,146,184,2 180,230,202,252,6 216,167,258,209,6 141,77,183,119,3 114,301,198,385,6 2,38,114,150,3 282,287,366,371,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000891.jpg 174,353,188,367,6 229,301,243,315,3 83,91,125,133,4 352,301,408,357,0 52,299,164,411,9 175,285,287,397,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000892.jpg 261,330,283,352,1 348,298,362,312,6 259,195,273,209,7 88,83,130,125,1 11,302,53,344,7 189,200,273,284,2 198,55,310,167,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000893.jpg 385,187,407,209,4 185,48,213,76,0 227,120,269,162,6 303,252,415,364,8 59,189,171,301,2 34,297,146,409,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000894.jpg 251,310,273,332,2 36,153,92,209,0 335,112,391,168,4 151,274,235,358,4 32,60,116,144,9 150,94,262,206,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000895.jpg 290,147,304,161,3 290,336,318,364,6 376,110,404,138,4 92,240,120,268,5 171,275,255,359,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000896.jpg 20,392,42,414,3 277,80,299,102,8 158,146,172,160,9 311,137,353,179,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000897.jpg 211,118,225,132,6 143,132,165,154,0 398,81,412,95,0 336,185,364,213,1 351,13,407,69,2 375,239,403,267,2 132,41,174,83,9 131,187,187,243,8 183,349,225,391,3 39,283,123,367,1 244,39,328,123,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000898.jpg 172,83,194,105,6 65,120,79,134,8 226,127,248,149,5 327,111,383,167,4 119,199,175,255,5 123,21,179,77,3 194,54,250,110,1 4,30,46,72,5 237,204,265,232,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000899.jpg 217,124,259,166,9 290,0,346,56,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000900.jpg 95,157,137,199,2 341,11,369,39,4 42,11,84,53,6 171,326,227,382,0 173,104,229,160,0 316,270,372,326,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000901.jpg 58,385,86,413,4 300,293,328,321,5 228,263,256,291,9 121,131,163,173,3 367,111,409,153,4 100,276,128,304,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000902.jpg 7,3,21,17,1 338,133,360,155,4 210,55,238,83,1 8,268,64,324,9 253,240,295,282,8 377,277,405,305,9 86,202,114,230,7 95,229,123,257,3 294,44,378,128,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000903.jpg 171,117,213,159,8 118,260,146,288,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000904.jpg 178,347,192,361,9 296,334,310,348,1 262,333,276,347,7 164,175,206,217,1 78,322,162,406,1 309,46,393,130,4 41,28,153,140,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000905.jpg 74,234,102,262,2 339,96,395,152,1 28,46,84,102,5 352,299,408,355,6 203,272,315,384,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000906.jpg 141,114,183,156,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000907.jpg 137,328,151,342,9 117,47,139,69,0 21,296,77,352,8 286,255,314,283,4 82,75,110,103,5 163,191,219,247,9 231,309,315,393,3 261,38,345,122,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000908.jpg 241,133,255,147,2 228,335,242,349,2 187,318,201,332,2 246,273,274,301,6 44,180,86,222,9 267,214,379,326,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000909.jpg 380,139,402,161,9 23,194,37,208,9 51,108,107,164,8 196,91,252,147,6 91,31,147,87,5 269,91,353,175,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000910.jpg 174,263,196,285,0 316,2,372,58,7 197,292,309,404,7 41,263,153,375,4 205,84,317,196,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000911.jpg 62,247,84,269,9 249,52,305,108,9 257,259,313,315,5 70,117,98,145,6 84,262,196,374,9 279,131,391,243,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000912.jpg 235,358,249,372,6 32,2,46,16,3 268,350,282,364,5 144,252,256,364,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000913.jpg 38,103,60,125,7 283,111,395,223,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000914.jpg 42,223,70,251,0 184,215,240,271,1 109,92,221,204,1 218,95,330,207,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000915.jpg 317,339,345,367,3 192,223,276,307,9 32,269,116,353,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000916.jpg 113,361,127,375,5 374,391,388,405,1 3,151,45,193,2 194,187,278,271,6 75,266,187,378,7 277,80,389,192,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000917.jpg 121,383,149,411,2 101,195,157,251,4 343,58,371,86,2 198,239,310,351,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000918.jpg 283,211,297,225,0 243,25,257,39,6 103,181,125,203,8 71,323,127,379,0 309,256,365,312,0 21,33,133,145,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000919.jpg 157,172,185,200,1 344,312,400,368,0 89,351,117,379,1 9,181,51,223,4 232,188,260,216,4 112,212,140,240,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000920.jpg 310,150,324,164,7 15,55,37,77,5 295,285,317,307,9 105,125,133,153,6 348,37,390,79,1 364,291,406,333,3 197,107,225,135,1 329,110,371,152,7 216,294,258,336,2 155,199,239,283,3 8,270,120,382,9 121,25,205,109,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000921.jpg 39,153,95,209,2 132,235,174,277,8 322,197,364,239,6 323,115,351,143,3 239,177,267,205,1 161,31,203,73,7 211,259,295,343,1 54,2,166,114,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000922.jpg 277,377,291,391,8 159,99,173,113,2 301,256,315,270,9 371,144,413,186,0 92,365,134,407,7 298,193,340,235,6 359,282,387,310,9 163,247,219,303,5 88,246,116,274,1 77,160,161,244,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000923.jpg 262,178,276,192,6 63,43,85,65,7 177,202,205,230,2 349,102,405,158,6 234,262,290,318,3 11,127,67,183,3 194,344,222,372,7 346,281,402,337,3 96,302,180,386,0 140,17,224,101,2 62,186,146,270,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000924.jpg 389,98,403,112,2 157,17,179,39,4 169,298,191,320,3 92,298,120,326,8 3,239,31,267,3 102,369,130,397,0 41,66,153,178,6 143,146,255,258,6 186,271,270,355,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000925.jpg 98,37,154,93,8 179,306,207,334,5 181,169,223,211,7 178,224,234,280,0 212,144,240,172,6 116,298,158,340,2 91,142,175,226,8 192,41,276,125,0 274,38,386,150,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000926.jpg 183,118,205,140,1 335,139,357,161,7 194,194,216,216,4 151,217,207,273,7 67,267,109,309,6 118,286,230,398,1 64,4,176,116,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000927.jpg 183,29,225,71,8 261,10,373,122,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000928.jpg 240,55,324,139,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000929.jpg 122,87,136,101,0 30,153,44,167,1 77,40,105,68,6 50,275,106,331,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000930.jpg 110,278,124,292,1 4,331,26,353,2 393,8,407,22,4 53,235,81,263,8 279,286,335,342,7 315,187,357,229,7 301,95,385,179,7 50,100,134,184,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000931.jpg 288,18,302,32,5 357,142,385,170,0 179,291,235,347,5 22,329,64,371,3 217,357,259,399,4 186,219,242,275,0 100,82,184,166,9 49,202,161,314,2 305,14,389,98,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000932.jpg 116,214,138,236,1 169,155,191,177,5 359,130,373,144,2 82,45,138,101,8 32,230,74,272,9 346,281,402,337,6 274,90,358,174,8 172,197,284,309,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000933.jpg 305,364,327,386,4 94,162,116,184,0 181,329,195,343,2 63,220,91,248,6 347,148,403,204,7 266,56,308,98,6 40,255,68,283,2 4,138,60,194,9 172,172,256,256,5 234,276,318,360,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000934.jpg 3,39,25,61,1 238,350,266,378,0 334,249,362,277,6 115,186,227,298,6 21,171,105,255,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000935.jpg 71,93,85,107,6 171,287,185,301,8 296,172,324,200,1 59,313,143,397,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000936.jpg 252,108,274,130,6 333,397,347,411,6 369,62,391,84,2 238,133,350,245,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000937.jpg 354,356,368,370,8 90,52,146,108,6 126,328,154,356,9 160,275,244,359,4 241,280,325,364,5 188,34,300,146,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000938.jpg 23,357,45,379,1 95,250,137,292,5 145,102,201,158,2 253,134,295,176,2 248,71,276,99,5 278,2,390,114,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000939.jpg 37,180,79,222,3 72,326,114,368,7 362,225,404,267,6 72,213,128,269,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000940.jpg 97,3,139,45,3 56,108,140,192,7 4,279,88,363,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000941.jpg 62,231,76,245,3 91,305,133,347,3 329,46,371,88,5 148,59,232,143,4 1,243,85,327,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000942.jpg 115,367,129,381,5 225,179,247,201,9 339,100,353,114,8 253,23,295,65,1 179,334,221,376,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000943.jpg 96,90,118,112,1 338,103,360,125,4 41,85,63,107,5 254,160,310,216,4 6,4,34,32,7 230,235,286,291,3 145,113,187,155,5 10,194,122,306,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000944.jpg 324,337,338,351,4 152,264,166,278,9 34,64,48,78,0 136,305,164,333,7 202,89,230,117,1 198,311,240,353,9 297,175,409,287,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000945.jpg 349,80,363,94,6 207,201,319,313,3 192,50,304,162,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000946.jpg 338,328,360,350,3 59,299,143,383,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000947.jpg 191,250,205,264,7 274,216,296,238,6 86,143,108,165,2 78,19,120,61,1 94,304,122,332,2 384,35,412,63,2 2,177,86,261,8 253,287,365,399,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000948.jpg 311,345,325,359,3 319,256,341,278,0 266,24,288,46,1 74,105,116,147,1 157,217,269,329,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000949.jpg 354,44,376,66,2 133,35,147,49,4 63,219,85,241,7 137,237,179,279,8 6,348,34,376,0 212,165,240,193,4 94,330,150,386,5 342,196,398,252,4 37,293,79,335,8 50,108,134,192,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000950.jpg 256,52,278,74,3 392,43,414,65,7 320,350,334,364,9 179,361,207,389,6 314,114,356,156,4 223,96,307,180,5 116,52,228,164,0 89,218,173,302,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000951.jpg 238,276,260,298,9 235,308,249,322,7 238,114,266,142,1 167,51,195,79,6 267,232,295,260,8 156,5,184,33,8 244,348,286,390,3 272,15,314,57,3 59,215,143,299,1 160,167,272,279,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000952.jpg 303,148,325,170,5 204,96,218,110,7 142,201,170,229,4 338,117,394,173,3 299,190,411,302,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000953.jpg 176,184,190,198,9 259,262,273,276,0 296,313,352,369,3 194,194,222,222,2 69,287,97,315,5 291,140,333,182,5 79,194,163,278,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000954.jpg 359,346,381,368,3 2,196,16,210,3 226,38,240,52,8 213,181,269,237,3 80,250,108,278,4 14,2,42,30,2 175,74,259,158,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000955.jpg 176,127,190,141,0 12,344,34,366,3 364,71,406,113,4 137,98,179,140,4 310,337,352,379,5 70,307,154,391,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000956.jpg 238,91,260,113,1 343,42,399,98,6 137,190,179,232,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000957.jpg 83,153,97,167,4 260,385,282,407,2 226,99,240,113,9 77,221,133,277,7 280,278,336,334,3 76,317,118,359,6 319,78,361,120,9 339,321,381,363,7 66,67,178,179,4 171,23,283,135,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000958.jpg 133,367,147,381,3 157,147,171,161,9 336,244,392,300,4 360,81,388,109,6 107,116,149,158,1 298,94,340,136,7 234,260,262,288,1 141,277,169,305,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000959.jpg 129,122,157,150,3 32,117,116,201,0 66,225,178,337,7 320,324,404,408,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000960.jpg 54,395,68,409,8 86,50,108,72,3 247,192,275,220,8 96,75,152,131,7 95,348,151,404,0 27,370,55,398,2 184,69,212,97,1 204,19,316,131,8 290,179,402,291,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000961.jpg 159,46,181,68,9 81,391,95,405,5 215,384,237,406,8 329,344,385,400,0 3,77,31,105,7 76,66,132,122,8 218,264,246,292,4 58,119,170,231,5 24,230,136,342,3 189,50,273,134,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000962.jpg 364,267,386,289,1 274,5,302,33,7 352,368,380,396,6 46,263,102,319,0 26,357,82,413,4 307,237,349,279,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000963.jpg 345,163,359,177,6 183,382,197,396,0 172,239,284,351,1 89,245,173,329,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000964.jpg 110,272,132,294,3 146,256,202,312,9 259,193,343,277,7 62,149,146,233,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000965.jpg 17,275,45,303,2 12,100,96,184,5 239,268,323,352,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000966.jpg 346,277,402,333,4 7,357,63,413,0 298,161,354,217,3 150,29,192,71,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000967.jpg 63,155,77,169,0 324,150,366,192,8 328,15,384,71,2 72,194,128,250,9 177,333,219,375,1 111,321,139,349,0 356,278,412,334,5 33,87,145,199,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000968.jpg 343,339,371,367,1 169,217,197,245,3 251,113,293,155,1 21,329,63,371,7 220,272,276,328,9 33,187,75,229,1 155,78,239,162,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000969.jpg 40,243,54,257,9 15,332,37,354,1 254,336,310,392,6 49,342,91,384,1 208,348,236,376,7 84,268,112,296,4 24,167,108,251,3
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000970.jpg 381,347,395,361,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000971.jpg 232,34,246,48,2 243,152,265,174,6 40,158,68,186,6 280,303,336,359,1 7,216,35,244,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000972.jpg 6,57,20,71,4 273,202,287,216,1 256,215,270,229,2 281,256,323,298,0 25,118,81,174,4 144,27,200,83,5 108,315,136,343,4 27,289,69,331,6 358,280,386,308,3 75,125,187,237,0 240,141,352,253,2 269,294,353,378,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000973.jpg 96,27,118,49,9 180,152,236,208,9 139,339,181,381,3 193,296,235,338,8 107,182,149,224,6 1,229,57,285,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000974.jpg 380,9,402,31,6 360,224,382,246,3 99,282,113,296,5 283,141,339,197,7 91,66,133,108,3 295,39,351,95,4 221,187,277,243,7 157,30,185,58,1 355,36,411,92,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000975.jpg 305,93,327,115,4 118,347,132,361,0 97,10,209,122,2 289,15,373,99,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000976.jpg 223,114,279,170,4 148,260,176,288,8 182,25,224,67,4 17,162,59,204,7 177,310,219,352,1 60,103,102,145,1 304,13,388,97,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000977.jpg 319,41,333,55,0 115,195,129,209,4 9,393,31,415,9 349,322,405,378,4 110,62,138,90,9 283,298,311,326,1 29,133,85,189,7 227,102,283,158,4 122,310,178,366,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000978.jpg 394,303,408,317,5 212,192,226,206,2 19,218,41,240,5 267,285,309,327,7 142,213,184,255,0 325,149,381,205,9 170,256,198,284,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000979.jpg 134,281,190,337,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000980.jpg 111,329,133,351,0 22,395,36,409,0 203,327,259,383,8 156,35,240,119,0 251,186,363,298,7 106,183,218,295,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000981.jpg 259,280,273,294,8 388,345,410,367,8 211,177,239,205,2 60,277,88,305,1 132,286,244,398,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000982.jpg 379,321,393,335,9 33,79,55,101,7 319,307,347,335,4 362,346,390,374,2 113,242,141,270,7 38,157,122,241,8 185,51,297,163,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000983.jpg 234,121,256,143,7 81,266,137,322,9 170,86,212,128,6 247,294,331,378,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000984.jpg 288,247,310,269,9 170,10,212,52,6 145,87,201,143,0 262,8,304,50,5 19,33,61,75,1 11,376,39,404,8 233,189,275,231,5 9,181,93,265,9 105,229,189,313,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000985.jpg 11,49,25,63,0 159,199,181,221,6 127,34,149,56,2 152,118,194,160,4 46,307,74,335,6 185,6,227,48,9 127,275,169,317,1 254,121,310,177,5 319,184,361,226,9 58,164,170,276,2 258,6,370,118,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000986.jpg 52,63,66,77,3 282,28,296,42,8 114,42,136,64,7 12,296,54,338,0 15,103,127,215,3 299,10,383,94,7 178,125,262,209,8
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000987.jpg 280,226,294,240,3 142,335,156,349,6 168,101,252,185,2 306,28,390,112,6 73,105,157,189,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000988.jpg 176,127,198,149,9 290,23,318,51,1 309,320,351,362,6 18,241,74,297,0 251,233,307,289,7 139,280,181,322,9 307,43,391,127,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000989.jpg 301,94,323,116,1 137,73,193,129,2 229,176,257,204,7 220,244,276,300,1 98,314,140,356,7 220,5,276,61,4 289,29,345,85,6 100,159,184,243,1 282,206,394,318,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000990.jpg 259,390,281,412,0 1,390,15,404,2 286,199,342,255,9 58,153,86,181,0 224,322,280,378,0 354,258,382,286,6
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000991.jpg 94,278,136,320,8 364,335,392,363,8 84,149,126,191,1 275,64,359,148,8 282,328,366,412,1
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000992.jpg 262,286,276,300,6 230,90,252,112,6 64,88,120,144,4 70,233,112,275,6 272,123,384,235,8 168,166,252,250,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000993.jpg 251,382,265,396,9 114,332,128,346,9 4,110,26,132,9
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000994.jpg 273,196,287,210,5 103,330,125,352,7 178,295,234,351,8 355,124,411,180,1 190,171,274,255,7 222,1,334,113,2 3,103,115,215,2
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000995.jpg 370,195,392,217,1 218,126,260,168,6 270,313,326,369,7 104,203,132,231,3 112,264,224,376,0
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000996.jpg 211,111,225,125,0 302,158,386,242,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000997.jpg 81,308,95,322,6 104,125,160,181,3 277,84,333,140,4 335,17,363,45,5 164,268,192,296,0 344,65,386,107,8 258,3,314,59,9 179,119,263,203,7
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000998.jpg 273,72,329,128,0 252,173,280,201,4
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/000999.jpg 258,225,280,247,1 27,216,41,230,1 305,209,319,223,2 48,221,132,305,6 181,6,293,118,3 318,320,402,404,5
+/Users/pina/Learning/Yolov3/TensorFlow-2.x-YOLOv3/mnist/mnist_train/001000.jpg 385,57,399,71,9 40,199,54,213,9 229,6,271,48,4 30,292,58,320,0 209,223,265,279,3 196,144,224,172,6 338,11,366,39,2

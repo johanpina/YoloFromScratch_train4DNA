@@ -47,7 +47,9 @@ def load_yolo_weights(model, weights_file):
             conv_layer = model.get_layer(conv_layer_name)
             filters = conv_layer.filters
             k_size = conv_layer.kernel_size[0]
-            in_dim = conv_layer.input_shape[-1]
+            in_dim = conv_layer.input_shape[-1] if hasattr(conv_layer, 'input_shape') else conv_layer.input.shape[-1]
+            if hasattr(in_dim, 'value'):
+                in_dim = int(in_dim.value)
 
             if i not in range2:
                 # darknet weights: [beta, gamma, mean, variance]

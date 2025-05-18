@@ -1,3 +1,10 @@
 *.pyc
 model_data
 configs.py
+log/*
+__pycache__
+yolov3/__pycache__/
+mnist/mnist/test/
+mnist/mnist/train/
+mnist/mnist_test/
+mnist/mnist_train/

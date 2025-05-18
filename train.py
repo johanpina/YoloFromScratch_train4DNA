@@ -51,7 +51,7 @@ def main():
 
     if TRAIN_TRANSFER:
         Darknet = Create_Yolo(input_size=YOLO_INPUT_SIZE, CLASSES=YOLO_COCO_CLASSES)
-        load_yolo_weights(Darknet, Darknet_weights) # use darknet weights
+        #load_yolo_weights(Darknet, Darknet_weights) # use darknet weights
 
     yolo = Create_Yolo(input_size=YOLO_INPUT_SIZE, training=True, CLASSES=TRAIN_CLASSES)
     if TRAIN_FROM_CHECKPOINT:
@@ -100,18 +100,18 @@ def main():
             else:
                 lr = TRAIN_LR_END + 0.5 * (TRAIN_LR_INIT - TRAIN_LR_END)*(
                     (1 + tf.cos((global_steps - warmup_steps) / (total_steps - warmup_steps) * np.pi)))
-            optimizer.lr.assign(lr.numpy())
+            optimizer.learning_rate.assign(lr.numpy())
 
             # writing summary data
             with writer.as_default():
-                tf.summary.scalar("lr", optimizer.lr, step=global_steps)
+                tf.summary.scalar("lr", optimizer.learning_rate, step=global_steps)
                 tf.summary.scalar("loss/total_loss", total_loss, step=global_steps)
                 tf.summary.scalar("loss/giou_loss", giou_loss, step=global_steps)
                 tf.summary.scalar("loss/conf_loss", conf_loss, step=global_steps)
                 tf.summary.scalar("loss/prob_loss", prob_loss, step=global_steps)
             writer.flush()
             
-        return global_steps.numpy(), optimizer.lr.numpy(), giou_loss.numpy(), conf_loss.numpy(), prob_loss.numpy(), total_loss.numpy()
+        return global_steps.numpy(), optimizer.learning_rate.numpy(), giou_loss.numpy(), conf_loss.numpy(), prob_loss.numpy(), total_loss.numpy()
 
     validate_writer = tf.summary.create_file_writer(TRAIN_LOGDIR)
     def validate_step(image_data, target):
@@ -139,12 +139,11 @@ def main():
         for image_data, target in trainset:
             results = train_step(image_data, target)
             cur_step = results[0]%steps_per_epoch
-            print("epoch:{:2.0f} step:{:5.0f}/{}, lr:{:.6f}, giou_loss:{:7.2f}, conf_loss:{:7.2f}, prob_loss:{:7.2f}, total_loss:{:7.2f}"
-                  .format(epoch, cur_step, steps_per_epoch, results[1], results[2], results[3], results[4], results[5]))
+            print("epoch:{:2.0f} step:{:5.0f}/{}, lr:{:.6f}, giou_loss:{:7.2f}, conf_loss:{:7.2f}, prob_loss:{:7.2f}, total_loss:{:7.2f}".format(epoch, cur_step, steps_per_epoch, results[1], results[2], results[3], results[4], results[5]))
 
         if len(testset) == 0:
             print("configure TEST options to validate model")
-            yolo.save_weights(os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME))
+            yolo.save_weights(os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME + ".weights.h5"))
             continue
         
         count, giou_val, conf_val, prob_val, total_val = 0., 0, 0, 0, 0
@@ -167,14 +166,14 @@ def main():
               format(giou_val/count, conf_val/count, prob_val/count, total_val/count))
 
         if TRAIN_SAVE_CHECKPOINT and not TRAIN_SAVE_BEST_ONLY:
-            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME+"_val_loss_{:7.2f}".format(total_val/count))
+            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME+"_val_loss_{:7.2f}.weights.h5".format(total_val/count))
             yolo.save_weights(save_directory)
         if TRAIN_SAVE_BEST_ONLY and best_val_loss>total_val/count:
-            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME)
+            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME+".weights.h5")
             yolo.save_weights(save_directory)
             best_val_loss = total_val/count
         if not TRAIN_SAVE_BEST_ONLY and not TRAIN_SAVE_CHECKPOINT:
-            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME)
+            save_directory = os.path.join(TRAIN_CHECKPOINTS_FOLDER, TRAIN_MODEL_NAME+".weights.h5")
             yolo.save_weights(save_directory)
 
     # measure mAP of trained custom model
