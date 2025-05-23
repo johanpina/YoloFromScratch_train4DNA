@@ -35,7 +35,7 @@ class Dataset(object):
         self.anchors = (np.array(YOLO_ANCHORS).T/self.strides).T
         self.anchor_per_scale = YOLO_ANCHOR_PER_SCALE
         self.max_bbox_per_scale = YOLO_MAX_BBOX_PER_SCALE
-
+        print("tamaño de los anchors", self.anchors)
         self.annotations = self.load_annotations(dataset_type)
         self.num_samples = len(self.annotations)
         self.num_batchs = int(np.ceil(self.num_samples / self.batch_size))
@@ -47,7 +47,7 @@ class Dataset(object):
         with open(self.annot_path, 'r') as f:
             txt = f.read().splitlines()
             annotations = [line.strip() for line in txt if len(line.strip().split()[1:]) != 0]
-        np.random.shuffle(annotations)
+        #np.random.shuffle(annotations)
 
         # for annotation in annotations:
         #     image_extension = '.jpg'

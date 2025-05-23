@@ -9,3 +9,5 @@ mnist/mnist/train/
 mnist/mnist_test/
 mnist/mnist_train/
 checkpoints/*
+mnist/*.fasta
+mnist/transposon*.txt
